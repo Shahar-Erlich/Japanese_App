@@ -1,0 +1,8823 @@
+{
+  "1": [
+    {
+      "jp": "アジアけんきゅう",
+      "kanji": "アジア研究",
+      "eng": "Asian studies"
+    },
+    {
+      "jp": "あのう",
+      "kanji": "",
+      "eng": "um . . ."
+    },
+    {
+      "jp": "アメリカ",
+      "kanji": "",
+      "eng": "U.S.A."
+    },
+    {
+      "jp": "イギリス",
+      "kanji": "",
+      "eng": "Britain"
+    },
+    {
+      "jp": "いしゃ",
+      "kanji": "医者",
+      "eng": "doctor"
+    },
+    {
+      "jp": "いちじ",
+      "kanji": "一時",
+      "eng": "one o’clock"
+    },
+    {
+      "jp": "いちねんせい",
+      "kanji": "一年生",
+      "eng": "first-year student"
+    },
+    {
+      "jp": "いっぷん",
+      "kanji": "一分",
+      "eng": "one minute"
+    },
+    {
+      "jp": "いま",
+      "kanji": "今",
+      "eng": "now"
+    },
+    {
+      "jp": "いもうと",
+      "kanji": "妹",
+      "eng": "younger sister"
+    },
+    {
+      "jp": "インド",
+      "kanji": "",
+      "eng": "India"
+    },
+    {
+      "jp": "エジプト",
+      "kanji": "",
+      "eng": "Egypt"
+    },
+    {
+      "jp": "オーストラリア",
+      "kanji": "",
+      "eng": "Australia"
+    },
+    {
+      "jp": "おかあさん",
+      "kanji": "お母さん",
+      "eng": "mother"
+    },
+    {
+      "jp": "おとうさん",
+      "kanji": "お父さん",
+      "eng": "father"
+    },
+    {
+      "jp": "おとうと",
+      "kanji": "弟",
+      "eng": "younger brother"
+    },
+    {
+      "jp": "おにいさん",
+      "kanji": "お兄さん",
+      "eng": "older brother"
+    },
+    {
+      "jp": "おねえさん",
+      "kanji": "お姉さん",
+      "eng": "older sister"
+    },
+    {
+      "jp": "かいしゃいん",
+      "kanji": "会社員",
+      "eng": "office worker"
+    },
+    {
+      "jp": "がくせい",
+      "kanji": "学生",
+      "eng": "student"
+    },
+    {
+      "jp": "カナダ",
+      "kanji": "",
+      "eng": "Canada"
+    },
+    {
+      "jp": "かんこく",
+      "kanji": "韓国",
+      "eng": "Korea"
+    },
+    {
+      "jp": "かんごし",
+      "kanji": "看護師",
+      "eng": "nurse"
+    },
+    {
+      "jp": "きゅうふん",
+      "kanji": "九分",
+      "eng": "nine minutes"
+    },
+    {
+      "jp": "くじ",
+      "kanji": "九時",
+      "eng": "nine o’clock"
+    },
+    {
+      "jp": "けいざい",
+      "kanji": "経済",
+      "eng": "economics"
+    },
+    {
+      "jp": "～ご",
+      "kanji": "～語",
+      "eng": ". . . language"
+    },
+    {
+      "jp": "こうこう",
+      "kanji": "高校",
+      "eng": "high school"
+    },
+    {
+      "jp": "こうこうせい",
+      "kanji": "高校生",
+      "eng": "high school student"
+    },
+    {
+      "jp": "こくさいかんけい",
+      "kanji": "国際関係",
+      "eng": "international relations"
+    },
+    {
+      "jp": "ごご",
+      "kanji": "午後",
+      "eng": "p.m."
+    },
+    {
+      "jp": "ごじ",
+      "kanji": "五時",
+      "eng": "five o’clock"
+    },
+    {
+      "jp": "ごぜん",
+      "kanji": "午前",
+      "eng": "a.m."
+    },
+    {
+      "jp": "ごふん",
+      "kanji": "五分",
+      "eng": "five minutes"
+    },
+    {
+      "jp": "コンピューター",
+      "kanji": "",
+      "eng": "computer"
+    },
+    {
+      "jp": "～さい",
+      "kanji": "～歳",
+      "eng": ". . . years old"
+    },
+    {
+      "jp": "～さん",
+      "kanji": "",
+      "eng": "Mr./Ms. . . ."
+    },
+    {
+      "jp": "さんじ",
+      "kanji": "三時",
+      "eng": "three o’clock"
+    },
+    {
+      "jp": "さんじっぷん/さんじゅっぷん",
+      "kanji": "三十分",
+      "eng": "thirty minutes"
+    },
+    {
+      "jp": "さんぷん",
+      "kanji": "三分",
+      "eng": "three minutes"
+    },
+    {
+      "jp": "～じ",
+      "kanji": "～時",
+      "eng": "o’clock"
+    },
+    {
+      "jp": "しちじ",
+      "kanji": "七時",
+      "eng": "seven o’clock"
+    },
+    {
+      "jp": "じっぷん",
+      "kanji": "十分",
+      "eng": "ten minutes"
+    },
+    {
+      "jp": "じゅういちじ",
+      "kanji": "十一時",
+      "eng": "eleven o’clock"
+    },
+    {
+      "jp": "じゅういっぷん",
+      "kanji": "十一分",
+      "eng": "eleven minutes"
+    },
+    {
+      "jp": "じゅうきゅうふん",
+      "kanji": "十九分",
+      "eng": "nineteen minutes"
+    },
+    {
+      "jp": "じゅうごふん",
+      "kanji": "十五分",
+      "eng": "fifteen minutes"
+    },
+    {
+      "jp": "じゅうさんぷん",
+      "kanji": "十三分",
+      "eng": "thirteen minutes"
+    },
+    {
+      "jp": "じゅうじ",
+      "kanji": "十時",
+      "eng": "ten o’clock"
+    },
+    {
+      "jp": "じゅうななふん",
+      "kanji": "十七分",
+      "eng": "seventeen minutes"
+    },
+    {
+      "jp": "じゅうにじ",
+      "kanji": "十二時",
+      "eng": "twelve o’clock"
+    },
+    {
+      "jp": "じゅうにふん",
+      "kanji": "十二分",
+      "eng": "twelve minutes"
+    },
+    {
+      "jp": "じゅうはちふん/じゅうはっぷん",
+      "kanji": "十八分",
+      "eng": "eighteen minutes"
+    },
+    {
+      "jp": "じゅうよんぷん",
+      "kanji": "十四分",
+      "eng": "fourteen minutes"
+    },
+    {
+      "jp": "じゅうろっぷん",
+      "kanji": "十六分",
+      "eng": "sixteen minutes"
+    },
+    {
+      "jp": "じゅっぷん",
+      "kanji": "十分",
+      "eng": "ten minutes"
+    },
+    {
+      "jp": "しゅふ",
+      "kanji": "主婦",
+      "eng": "housewife"
+    },
+    {
+      "jp": "～じん",
+      "kanji": "～人",
+      "eng": ". . . people"
+    },
+    {
+      "jp": "せいじ",
+      "kanji": "政治",
+      "eng": "politics"
+    },
+    {
+      "jp": "せいぶつがく",
+      "kanji": "生物学",
+      "eng": "biology"
+    },
+    {
+      "jp": "せんこう",
+      "kanji": "専攻",
+      "eng": "major"
+    },
+    {
+      "jp": "せんせい",
+      "kanji": "先生",
+      "eng": "teacher; Professor . . ."
+    },
+    {
+      "jp": "そうです",
+      "kanji": "",
+      "eng": "That’s right."
+    },
+    {
+      "jp": "そうですか",
+      "kanji": "",
+      "eng": "I see.; Is that so?"
+    },
+    {
+      "jp": "だいがく",
+      "kanji": "大学",
+      "eng": "college; university"
+    },
+    {
+      "jp": "だいがくいんせい",
+      "kanji": "大学院生",
+      "eng": "graduate student"
+    },
+    {
+      "jp": "だいがくせい",
+      "kanji": "大学生",
+      "eng": "college student"
+    },
+    {
+      "jp": "ちゅうごく",
+      "kanji": "中国",
+      "eng": "China"
+    },
+    {
+      "jp": "でんわ",
+      "kanji": "電話",
+      "eng": "telephone"
+    },
+    {
+      "jp": "ともだち",
+      "kanji": "友だち",
+      "eng": "friend"
+    },
+    {
+      "jp": "ななふん",
+      "kanji": "七分",
+      "eng": "seven minutes"
+    },
+    {
+      "jp": "なに/なん",
+      "kanji": "何",
+      "eng": "what"
+    },
+    {
+      "jp": "なまえ",
+      "kanji": "名前",
+      "eng": "name"
+    },
+    {
+      "jp": "なん/なに",
+      "kanji": "何",
+      "eng": "what"
+    },
+    {
+      "jp": "にじ",
+      "kanji": "二時",
+      "eng": "two o’clock"
+    },
+    {
+      "jp": "にじっぷん",
+      "kanji": "二十分",
+      "eng": "twenty minutes"
+    },
+    {
+      "jp": "にじはん",
+      "kanji": "二時半",
+      "eng": "half past two"
+    },
+    {
+      "jp": "にじゅっぷん",
+      "kanji": "二十分",
+      "eng": "twenty minutes"
+    },
+    {
+      "jp": "にふん",
+      "kanji": "二分",
+      "eng": "two minutes"
+    },
+    {
+      "jp": "にほん",
+      "kanji": "日本",
+      "eng": "Japan"
+    },
+    {
+      "jp": "にほんご",
+      "kanji": "日本語",
+      "eng": "Japanese language"
+    },
+    {
+      "jp": "にほんじん",
+      "kanji": "日本人",
+      "eng": "Japanese people"
+    },
+    {
+      "jp": "～ねんせい",
+      "kanji": "～年生",
+      "eng": ". . . year student"
+    },
+    {
+      "jp": "はい",
+      "kanji": "",
+      "eng": "yes"
+    },
+    {
+      "jp": "はちじ",
+      "kanji": "八時",
+      "eng": "eight o’clock"
+    },
+    {
+      "jp": "はちふん",
+      "kanji": "八分",
+      "eng": "eight minutes"
+    },
+    {
+      "jp": "はっぷん",
+      "kanji": "八分",
+      "eng": "eight minutes"
+    },
+    {
+      "jp": "はん",
+      "kanji": "半",
+      "eng": "half"
+    },
+    {
+      "jp": "～ばん",
+      "kanji": "～番",
+      "eng": "number . . ."
+    },
+    {
+      "jp": "ばんごう",
+      "kanji": "番号",
+      "eng": "number"
+    },
+    {
+      "jp": "ビジネス",
+      "kanji": "",
+      "eng": "business"
+    },
+    {
+      "jp": "フィリピン",
+      "kanji": "",
+      "eng": "Philippines"
+    },
+    {
+      "jp": "ぶんがく",
+      "kanji": "文学",
+      "eng": "literature"
+    },
+    {
+      "jp": "べんごし",
+      "kanji": "弁護士",
+      "eng": "lawyer"
+    },
+    {
+      "jp": "よじ",
+      "kanji": "四時",
+      "eng": "four o’clock"
+    },
+    {
+      "jp": "よんぷん",
+      "kanji": "四分",
+      "eng": "four minutes"
+    },
+    {
+      "jp": "りゅうがくせい",
+      "kanji": "留学生",
+      "eng": "international student"
+    },
+    {
+      "jp": "れきし",
+      "kanji": "歴史",
+      "eng": "history"
+    },
+    {
+      "jp": "ろくじ",
+      "kanji": "六時",
+      "eng": "six o’clock"
+    },
+    {
+      "jp": "ろっぷん",
+      "kanji": "六分",
+      "eng": "six minutes"
+    },
+    {
+      "jp": "わたし",
+      "kanji": "私",
+      "eng": "I"
+    }
+  ],
+  "2": [
+    {
+      "jp": "あそこ",
+      "kanji": "",
+      "eng": "over there"
+    },
+    {
+      "jp": "あの",
+      "kanji": "",
+      "eng": "that . . . (over there)"
+    },
+    {
+      "jp": "あれ",
+      "kanji": "",
+      "eng": "that one (over there)"
+    },
+    {
+      "jp": "いくら",
+      "kanji": "",
+      "eng": "how much"
+    },
+    {
+      "jp": "いす",
+      "kanji": "",
+      "eng": "chair"
+    },
+    {
+      "jp": "いらっしゃいませ",
+      "kanji": "",
+      "eng": "Welcome (to our store)."
+    },
+    {
+      "jp": "えいご",
+      "kanji": "英語",
+      "eng": "English language"
+    },
+    {
+      "jp": "～えん",
+      "kanji": "～円",
+      "eng": ". . . yen"
+    },
+    {
+      "jp": "おいしい",
+      "kanji": "",
+      "eng": "delicious"
+    },
+    {
+      "jp": "おねがいします（～を）",
+      "kanji": "",
+      "eng": ". . . , please."
+    },
+    {
+      "jp": "カーテン",
+      "kanji": "",
+      "eng": "curtain"
+    },
+    {
+      "jp": "かさ",
+      "kanji": "傘",
+      "eng": "umbrella"
+    },
+    {
+      "jp": "かばん",
+      "kanji": "",
+      "eng": "bag"
+    },
+    {
+      "jp": "ぎんこう",
+      "kanji": "銀行",
+      "eng": "bank"
+    },
+    {
+      "jp": "ください（～を）",
+      "kanji": "",
+      "eng": "Please give me . . ."
+    },
+    {
+      "jp": "くつ",
+      "kanji": "靴",
+      "eng": "shoes"
+    },
+    {
+      "jp": "けしゴム",
+      "kanji": "消しゴム",
+      "eng": "eraser"
+    },
+    {
+      "jp": "こくばん",
+      "kanji": "黒板",
+      "eng": "blackboard"
+    },
+    {
+      "jp": "ここ",
+      "kanji": "",
+      "eng": "here"
+    },
+    {
+      "jp": "この",
+      "kanji": "",
+      "eng": "this . . ."
+    },
+    {
+      "jp": "これ",
+      "kanji": "",
+      "eng": "this one"
+    },
+    {
+      "jp": "コンビニ",
+      "kanji": "",
+      "eng": "convenience store"
+    },
+    {
+      "jp": "さいふ",
+      "kanji": "財布",
+      "eng": "wallet"
+    },
+    {
+      "jp": "さかな",
+      "kanji": "魚",
+      "eng": "fish"
+    },
+    {
+      "jp": "ジーンズ",
+      "kanji": "",
+      "eng": "jeans"
+    },
+    {
+      "jp": "じしょ",
+      "kanji": "辞書",
+      "eng": "dictionary"
+    },
+    {
+      "jp": "じてんしゃ",
+      "kanji": "自転車",
+      "eng": "bicycle"
+    },
+    {
+      "jp": "じゃあ",
+      "kanji": "",
+      "eng": "then . . . ; if that is the case, . . ."
+    },
+    {
+      "jp": "しんぶん",
+      "kanji": "新聞",
+      "eng": "newspaper"
+    },
+    {
+      "jp": "スマホ",
+      "kanji": "",
+      "eng": "smartphone; mobile"
+    },
+    {
+      "jp": "そこ",
+      "kanji": "",
+      "eng": "there"
+    },
+    {
+      "jp": "その",
+      "kanji": "",
+      "eng": "that . . ."
+    },
+    {
+      "jp": "それ",
+      "kanji": "",
+      "eng": "that one"
+    },
+    {
+      "jp": "たかい",
+      "kanji": "高い",
+      "eng": "expensive; high"
+    },
+    {
+      "jp": "だれ",
+      "kanji": "",
+      "eng": "who"
+    },
+    {
+      "jp": "つくえ",
+      "kanji": "机",
+      "eng": "desk"
+    },
+    {
+      "jp": "ティーシャツ",
+      "kanji": "Ｔシャツ",
+      "eng": "T-shirt"
+    },
+    {
+      "jp": "でんき",
+      "kanji": "電気",
+      "eng": "electricity; light"
+    },
+    {
+      "jp": "ドア",
+      "kanji": "",
+      "eng": "door"
+    },
+    {
+      "jp": "トイレ",
+      "kanji": "",
+      "eng": "toilet; restroom"
+    },
+    {
+      "jp": "どうぞ",
+      "kanji": "",
+      "eng": "Please.; Here it is."
+    },
+    {
+      "jp": "どうも",
+      "kanji": "",
+      "eng": "Thank you."
+    },
+    {
+      "jp": "とけい",
+      "kanji": "時計",
+      "eng": "watch; clock"
+    },
+    {
+      "jp": "どこ",
+      "kanji": "",
+      "eng": "where"
+    },
+    {
+      "jp": "としょかん",
+      "kanji": "図書館",
+      "eng": "library"
+    },
+    {
+      "jp": "どの",
+      "kanji": "",
+      "eng": "which . . ."
+    },
+    {
+      "jp": "どれ",
+      "kanji": "",
+      "eng": "which one"
+    },
+    {
+      "jp": "とんかつ",
+      "kanji": "",
+      "eng": "pork cutlet"
+    },
+    {
+      "jp": "にく",
+      "kanji": "肉",
+      "eng": "meat"
+    },
+    {
+      "jp": "ノート",
+      "kanji": "",
+      "eng": "notebook"
+    },
+    {
+      "jp": "ペン",
+      "kanji": "",
+      "eng": "pen"
+    },
+    {
+      "jp": "ぼうし",
+      "kanji": "帽子",
+      "eng": "hat; cap"
+    },
+    {
+      "jp": "ほん",
+      "kanji": "本",
+      "eng": "book"
+    },
+    {
+      "jp": "まど",
+      "kanji": "窓",
+      "eng": "window"
+    },
+    {
+      "jp": "メニュー",
+      "kanji": "",
+      "eng": "menu"
+    },
+    {
+      "jp": "やさい",
+      "kanji": "野菜",
+      "eng": "vegetable"
+    },
+    {
+      "jp": "ゆうびんきょく",
+      "kanji": "郵便局",
+      "eng": "post office"
+    }
+  ],
+  "3": [
+    {
+      "jp": "アイスクリーム",
+      "kanji": "",
+      "eng": "ice cream"
+    },
+    {
+      "jp": "あさ",
+      "kanji": "朝",
+      "eng": "morning"
+    },
+    {
+      "jp": "あさごはん",
+      "kanji": "朝ご飯",
+      "eng": "breakfast"
+    },
+    {
+      "jp": "あした",
+      "kanji": "明日",
+      "eng": "tomorrow"
+    },
+    {
+      "jp": "あまり ＋ negative",
+      "kanji": "",
+      "eng": "not much"
+    },
+    {
+      "jp": "いい",
+      "kanji": "",
+      "eng": "good"
+    },
+    {
+      "jp": "いえ",
+      "kanji": "家",
+      "eng": "home; house"
+    },
+    {
+      "jp": "いく",
+      "kanji": "行く",
+      "eng": "to go"
+    },
+    {
+      "jp": "いつ",
+      "kanji": "",
+      "eng": "when"
+    },
+    {
+      "jp": "うち",
+      "kanji": "",
+      "eng": "home; house; my place"
+    },
+    {
+      "jp": "えいが",
+      "kanji": "映画",
+      "eng": "movie"
+    },
+    {
+      "jp": "ええ",
+      "kanji": "",
+      "eng": "yes"
+    },
+    {
+      "jp": "おきる",
+      "kanji": "起きる",
+      "eng": "to get up"
+    },
+    {
+      "jp": "おさけ",
+      "kanji": "お酒",
+      "eng": "sake; alcoholic drink"
+    },
+    {
+      "jp": "おちゃ",
+      "kanji": "お茶",
+      "eng": "green tea"
+    },
+    {
+      "jp": "おんがく",
+      "kanji": "音楽",
+      "eng": "music"
+    },
+    {
+      "jp": "かえる",
+      "kanji": "帰る",
+      "eng": "to go back; to return"
+    },
+    {
+      "jp": "がっこう",
+      "kanji": "学校",
+      "eng": "school"
+    },
+    {
+      "jp": "カフェ",
+      "kanji": "",
+      "eng": "cafe"
+    },
+    {
+      "jp": "きく",
+      "kanji": "聞く",
+      "eng": "to listen; to hear"
+    },
+    {
+      "jp": "きょう",
+      "kanji": "今日",
+      "eng": "today"
+    },
+    {
+      "jp": "くる",
+      "kanji": "来る",
+      "eng": "to come"
+    },
+    {
+      "jp": "コーヒー",
+      "kanji": "",
+      "eng": "coffee"
+    },
+    {
+      "jp": "～ごろ",
+      "kanji": "",
+      "eng": "at about . . ."
+    },
+    {
+      "jp": "こんばん",
+      "kanji": "今晩",
+      "eng": "tonight"
+    },
+    {
+      "jp": "さけ",
+      "kanji": "酒",
+      "eng": "sake; alcohol"
+    },
+    {
+      "jp": "ざっし",
+      "kanji": "雑誌",
+      "eng": "magazine"
+    },
+    {
+      "jp": "しゅうまつ",
+      "kanji": "週末",
+      "eng": "weekend"
+    },
+    {
+      "jp": "スポーツ",
+      "kanji": "",
+      "eng": "sports"
+    },
+    {
+      "jp": "する",
+      "kanji": "",
+      "eng": "to do"
+    },
+    {
+      "jp": "ぜんぜん ＋ negative",
+      "kanji": "全然",
+      "eng": "not at all"
+    },
+    {
+      "jp": "そうですね",
+      "kanji": "",
+      "eng": "That’s right.; Let me see."
+    },
+    {
+      "jp": "たいてい",
+      "kanji": "",
+      "eng": "usually"
+    },
+    {
+      "jp": "たべる",
+      "kanji": "食べる",
+      "eng": "to eat"
+    },
+    {
+      "jp": "ちゃ",
+      "kanji": "茶",
+      "eng": "green tea"
+    },
+    {
+      "jp": "ちょっと",
+      "kanji": "",
+      "eng": "a little"
+    },
+    {
+      "jp": "デート",
+      "kanji": "",
+      "eng": "date (romantic, not calendar)"
+    },
+    {
+      "jp": "テニス",
+      "kanji": "",
+      "eng": "tennis"
+    },
+    {
+      "jp": "でも",
+      "kanji": "",
+      "eng": "but"
+    },
+    {
+      "jp": "テレビ",
+      "kanji": "",
+      "eng": "TV"
+    },
+    {
+      "jp": "どうですか",
+      "kanji": "",
+      "eng": "How about . . . ?; How is . . . ?"
+    },
+    {
+      "jp": "ときどき",
+      "kanji": "時々",
+      "eng": "sometimes"
+    },
+    {
+      "jp": "どようび",
+      "kanji": "土曜日",
+      "eng": "Saturday"
+    },
+    {
+      "jp": "にちようび",
+      "kanji": "日曜日",
+      "eng": "Sunday"
+    },
+    {
+      "jp": "ねる",
+      "kanji": "寝る",
+      "eng": "to sleep; to go to sleep"
+    },
+    {
+      "jp": "のむ",
+      "kanji": "飲む",
+      "eng": "to drink"
+    },
+    {
+      "jp": "はなす",
+      "kanji": "話す",
+      "eng": "to speak; to talk"
+    },
+    {
+      "jp": "はやい",
+      "kanji": "早い",
+      "eng": "early"
+    },
+    {
+      "jp": "ばんごはん",
+      "kanji": "晩ご飯",
+      "eng": "dinner"
+    },
+    {
+      "jp": "ハンバーガー",
+      "kanji": "",
+      "eng": "hamburger"
+    },
+    {
+      "jp": "ひるごはん",
+      "kanji": "昼ご飯",
+      "eng": "lunch"
+    },
+    {
+      "jp": "べんきょうする",
+      "kanji": "勉強する",
+      "eng": "to study"
+    },
+    {
+      "jp": "まいにち",
+      "kanji": "毎日",
+      "eng": "every day"
+    },
+    {
+      "jp": "まいばん",
+      "kanji": "毎晩",
+      "eng": "every night"
+    },
+    {
+      "jp": "みず",
+      "kanji": "水",
+      "eng": "water"
+    },
+    {
+      "jp": "みる",
+      "kanji": "見る",
+      "eng": "to see; to look at; to watch"
+    },
+    {
+      "jp": "よく",
+      "kanji": "",
+      "eng": "often; much"
+    },
+    {
+      "jp": "よむ",
+      "kanji": "読む",
+      "eng": "to read"
+    }
+  ],
+  "4": [
+    {
+      "jp": "あいだ",
+      "kanji": "間",
+      "eng": "between"
+    },
+    {
+      "jp": "あう",
+      "kanji": "会う",
+      "eng": "to meet; to see (a person)"
+    },
+    {
+      "jp": "あさって",
+      "kanji": "",
+      "eng": "the day after tomorrow"
+    },
+    {
+      "jp": "あなた",
+      "kanji": "",
+      "eng": "you"
+    },
+    {
+      "jp": "ある",
+      "kanji": "",
+      "eng": "there is . . ."
+    },
+    {
+      "jp": "アルバイト",
+      "kanji": "",
+      "eng": "part-time job"
+    },
+    {
+      "jp": "いちがつ",
+      "kanji": "一月",
+      "eng": "January"
+    },
+    {
+      "jp": "いちじかん",
+      "kanji": "一時間",
+      "eng": "one hour"
+    },
+    {
+      "jp": "いつか",
+      "kanji": "五日",
+      "eng": "the fifth day of a month"
+    },
+    {
+      "jp": "いぬ",
+      "kanji": "犬",
+      "eng": "dog"
+    },
+    {
+      "jp": "いる",
+      "kanji": "",
+      "eng": "(a person) is in . . . ; stays at . . ."
+    },
+    {
+      "jp": "うえ",
+      "kanji": "上",
+      "eng": "on"
+    },
+    {
+      "jp": "うしろ",
+      "kanji": "後ろ",
+      "eng": "back"
+    },
+    {
+      "jp": "おそく",
+      "kanji": "遅く",
+      "eng": "(do something) late"
+    },
+    {
+      "jp": "おてら",
+      "kanji": "お寺",
+      "eng": "temple"
+    },
+    {
+      "jp": "おととい",
+      "kanji": "",
+      "eng": "the day before yesterday"
+    },
+    {
+      "jp": "おととし",
+      "kanji": "",
+      "eng": "the year before last"
+    },
+    {
+      "jp": "おまんじゅう",
+      "kanji": "",
+      "eng": "sweet bun"
+    },
+    {
+      "jp": "かいもの",
+      "kanji": "買い物",
+      "eng": "shopping"
+    },
+    {
+      "jp": "かう",
+      "kanji": "買う",
+      "eng": "to buy"
+    },
+    {
+      "jp": "かく",
+      "kanji": "書く",
+      "eng": "to write"
+    },
+    {
+      "jp": "かようび",
+      "kanji": "火曜日",
+      "eng": "Tuesday"
+    },
+    {
+      "jp": "きのう",
+      "kanji": "昨日",
+      "eng": "yesterday"
+    },
+    {
+      "jp": "きょねん",
+      "kanji": "去年",
+      "eng": "last year"
+    },
+    {
+      "jp": "きんようび",
+      "kanji": "金曜日",
+      "eng": "Friday"
+    },
+    {
+      "jp": "くがつ",
+      "kanji": "九月",
+      "eng": "September"
+    },
+    {
+      "jp": "～ぐらい",
+      "kanji": "",
+      "eng": "about (approximate measurement)"
+    },
+    {
+      "jp": "クラス",
+      "kanji": "",
+      "eng": "class"
+    },
+    {
+      "jp": "ゲーム",
+      "kanji": "",
+      "eng": "game"
+    },
+    {
+      "jp": "げつようび",
+      "kanji": "月曜日",
+      "eng": "Monday"
+    },
+    {
+      "jp": "こうえん",
+      "kanji": "公園",
+      "eng": "park"
+    },
+    {
+      "jp": "ごがつ",
+      "kanji": "五月",
+      "eng": "May"
+    },
+    {
+      "jp": "ここのか",
+      "kanji": "九日",
+      "eng": "the ninth day of a month"
+    },
+    {
+      "jp": "ことし",
+      "kanji": "今年",
+      "eng": "this year"
+    },
+    {
+      "jp": "こども",
+      "kanji": "子供",
+      "eng": "child"
+    },
+    {
+      "jp": "ごはん",
+      "kanji": "ご飯",
+      "eng": "rice; meal"
+    },
+    {
+      "jp": "ごめんなさい",
+      "kanji": "",
+      "eng": "I’m sorry."
+    },
+    {
+      "jp": "こんげつ",
+      "kanji": "今月",
+      "eng": "this month"
+    },
+    {
+      "jp": "こんしゅう",
+      "kanji": "今週",
+      "eng": "this week"
+    },
+    {
+      "jp": "さらいげつ",
+      "kanji": "再来月",
+      "eng": "the month after next"
+    },
+    {
+      "jp": "さらいしゅう",
+      "kanji": "再来週",
+      "eng": "the week after next"
+    },
+    {
+      "jp": "さらいねん",
+      "kanji": "再来年",
+      "eng": "the year after next"
+    },
+    {
+      "jp": "さんがつ",
+      "kanji": "三月",
+      "eng": "March"
+    },
+    {
+      "jp": "しがつ",
+      "kanji": "四月",
+      "eng": "April"
+    },
+    {
+      "jp": "～じかん",
+      "kanji": "～時間",
+      "eng": ". . . hours"
+    },
+    {
+      "jp": "した",
+      "kanji": "下",
+      "eng": "under"
+    },
+    {
+      "jp": "しちがつ",
+      "kanji": "七月",
+      "eng": "July"
+    },
+    {
+      "jp": "しゃしん",
+      "kanji": "写真",
+      "eng": "picture; photograph"
+    },
+    {
+      "jp": "じゅういちがつ",
+      "kanji": "十一月",
+      "eng": "November"
+    },
+    {
+      "jp": "じゅういちにち",
+      "kanji": "十一日",
+      "eng": "the eleventh day of a month"
+    },
+    {
+      "jp": "じゅうがつ",
+      "kanji": "十月",
+      "eng": "October"
+    },
+    {
+      "jp": "じゅうにがつ",
+      "kanji": "十二月",
+      "eng": "December"
+    },
+    {
+      "jp": "じゅうよっか",
+      "kanji": "十四日",
+      "eng": "the fourteenth day of a month"
+    },
+    {
+      "jp": "すいようび",
+      "kanji": "水曜日",
+      "eng": "Wednesday"
+    },
+    {
+      "jp": "スーパー",
+      "kanji": "",
+      "eng": "supermarket"
+    },
+    {
+      "jp": "せんげつ",
+      "kanji": "先月",
+      "eng": "last month"
+    },
+    {
+      "jp": "せんしゅう",
+      "kanji": "先週",
+      "eng": "last week"
+    },
+    {
+      "jp": "それから",
+      "kanji": "",
+      "eng": "and then"
+    },
+    {
+      "jp": "だから",
+      "kanji": "",
+      "eng": "so; therefore"
+    },
+    {
+      "jp": "たくさん",
+      "kanji": "",
+      "eng": "many; a lot"
+    },
+    {
+      "jp": "ちかく",
+      "kanji": "近く",
+      "eng": "near; nearby"
+    },
+    {
+      "jp": "ついたち",
+      "kanji": "一日",
+      "eng": "the first day of a month"
+    },
+    {
+      "jp": "てら",
+      "kanji": "寺",
+      "eng": "temple"
+    },
+    {
+      "jp": "～と",
+      "kanji": "",
+      "eng": "together with (a person); and"
+    },
+    {
+      "jp": "どうして",
+      "kanji": "",
+      "eng": "why"
+    },
+    {
+      "jp": "とおか",
+      "kanji": "十日",
+      "eng": "the tenth day of a month"
+    },
+    {
+      "jp": "とき",
+      "kanji": "時",
+      "eng": "when . . . ; at the time of . . ."
+    },
+    {
+      "jp": "となり",
+      "kanji": "隣",
+      "eng": "next"
+    },
+    {
+      "jp": "とる",
+      "kanji": "撮る",
+      "eng": "to take (a picture)"
+    },
+    {
+      "jp": "なか",
+      "kanji": "中",
+      "eng": "inside"
+    },
+    {
+      "jp": "なのか",
+      "kanji": "七日",
+      "eng": "the seventh day of a month"
+    },
+    {
+      "jp": "にかげつまえ",
+      "kanji": "二か月前",
+      "eng": "two months ago"
+    },
+    {
+      "jp": "にがつ",
+      "kanji": "二月",
+      "eng": "February"
+    },
+    {
+      "jp": "にしゅうかんまえ",
+      "kanji": "二週間前",
+      "eng": "two weeks ago"
+    },
+    {
+      "jp": "にじゅうよっか",
+      "kanji": "二十四日",
+      "eng": "the twenty-fourth day of a month"
+    },
+    {
+      "jp": "ねこ",
+      "kanji": "猫",
+      "eng": "cat"
+    },
+    {
+      "jp": "バスてい",
+      "kanji": "バス停",
+      "eng": "bus stop"
+    },
+    {
+      "jp": "はちがつ",
+      "kanji": "八月",
+      "eng": "August"
+    },
+    {
+      "jp": "はつか",
+      "kanji": "二十日",
+      "eng": "the twentieth day of a month"
+    },
+    {
+      "jp": "はな",
+      "kanji": "花",
+      "eng": "flower"
+    },
+    {
+      "jp": "パン",
+      "kanji": "",
+      "eng": "bread"
+    },
+    {
+      "jp": "ひだり",
+      "kanji": "左",
+      "eng": "left"
+    },
+    {
+      "jp": "ひと",
+      "kanji": "人",
+      "eng": "person"
+    },
+    {
+      "jp": "ひとりで",
+      "kanji": "一人で",
+      "eng": "alone"
+    },
+    {
+      "jp": "びょういん",
+      "kanji": "病院",
+      "eng": "hospital"
+    },
+    {
+      "jp": "ふつか",
+      "kanji": "二日",
+      "eng": "the second day of a month"
+    },
+    {
+      "jp": "ホテル",
+      "kanji": "",
+      "eng": "hotel"
+    },
+    {
+      "jp": "ほんや",
+      "kanji": "本屋",
+      "eng": "bookstore"
+    },
+    {
+      "jp": "まえ",
+      "kanji": "前",
+      "eng": "front"
+    },
+    {
+      "jp": "まち",
+      "kanji": "町",
+      "eng": "town; city"
+    },
+    {
+      "jp": "まつ",
+      "kanji": "待つ",
+      "eng": "to wait"
+    },
+    {
+      "jp": "まんじゅう",
+      "kanji": "",
+      "eng": "sweet bun"
+    },
+    {
+      "jp": "みぎ",
+      "kanji": "右",
+      "eng": "right"
+    },
+    {
+      "jp": "みせ",
+      "kanji": "店",
+      "eng": "shop; store"
+    },
+    {
+      "jp": "みっか",
+      "kanji": "三日",
+      "eng": "the third day of a month"
+    },
+    {
+      "jp": "むいか",
+      "kanji": "六日",
+      "eng": "the sixth day of a month"
+    },
+    {
+      "jp": "もくようび",
+      "kanji": "木曜日",
+      "eng": "Thursday"
+    },
+    {
+      "jp": "もしもし",
+      "kanji": "",
+      "eng": "Hello? (used on the phone)"
+    },
+    {
+      "jp": "ようか",
+      "kanji": "八日",
+      "eng": "the eighth day of a month"
+    },
+    {
+      "jp": "よっか",
+      "kanji": "四日",
+      "eng": "the fourth day of a month"
+    },
+    {
+      "jp": "らいげつ",
+      "kanji": "来月",
+      "eng": "next month"
+    },
+    {
+      "jp": "らいしゅう",
+      "kanji": "来週",
+      "eng": "next week"
+    },
+    {
+      "jp": "らいねん",
+      "kanji": "来年",
+      "eng": "next year"
+    },
+    {
+      "jp": "レストラン",
+      "kanji": "",
+      "eng": "restaurant"
+    },
+    {
+      "jp": "レポート",
+      "kanji": "",
+      "eng": "(term) paper"
+    },
+    {
+      "jp": "ろくがつ",
+      "kanji": "六月",
+      "eng": "June"
+    },
+    {
+      "jp": "わかる",
+      "kanji": "",
+      "eng": "to understand"
+    }
+  ],
+  "5": [
+    {
+      "jp": "あたらしい",
+      "kanji": "新しい",
+      "eng": "new"
+    },
+    {
+      "jp": "あつい",
+      "kanji": "熱い",
+      "eng": "hot (thing)"
+    },
+    {
+      "jp": "あつい",
+      "kanji": "暑い",
+      "eng": "hot (weather)"
+    },
+    {
+      "jp": "いそがしい",
+      "kanji": "忙しい",
+      "eng": "busy (people/days)"
+    },
+    {
+      "jp": "いっしょに",
+      "kanji": "一緒に",
+      "eng": "together"
+    },
+    {
+      "jp": "うみ",
+      "kanji": "海",
+      "eng": "sea"
+    },
+    {
+      "jp": "エルサイズ",
+      "kanji": "Ｌサイズ",
+      "eng": "size L"
+    },
+    {
+      "jp": "おおきい",
+      "kanji": "大きい",
+      "eng": "large"
+    },
+    {
+      "jp": "おしろ",
+      "kanji": "お城",
+      "eng": "castle"
+    },
+    {
+      "jp": "おとこのひと",
+      "kanji": "男の人",
+      "eng": "man"
+    },
+    {
+      "jp": "おみやげ",
+      "kanji": "お土産",
+      "eng": "souvenir"
+    },
+    {
+      "jp": "おもしろい",
+      "kanji": "面白い",
+      "eng": "interesting; funny"
+    },
+    {
+      "jp": "およぐ",
+      "kanji": "泳ぐ",
+      "eng": "to swim"
+    },
+    {
+      "jp": "おんなのひと",
+      "kanji": "女の人",
+      "eng": "woman"
+    },
+    {
+      "jp": "～が",
+      "kanji": "",
+      "eng": ". . . , but"
+    },
+    {
+      "jp": "かっこいい",
+      "kanji": "",
+      "eng": "good-looking"
+    },
+    {
+      "jp": "きく",
+      "kanji": "聞く",
+      "eng": "to ask"
+    },
+    {
+      "jp": "きらい（な）",
+      "kanji": "嫌い",
+      "eng": "disgusted with; to dislike"
+    },
+    {
+      "jp": "きれい（な）",
+      "kanji": "",
+      "eng": "beautiful; clean"
+    },
+    {
+      "jp": "くだもの",
+      "kanji": "果物",
+      "eng": "fruit"
+    },
+    {
+      "jp": "げんき（な）",
+      "kanji": "元気",
+      "eng": "healthy; energetic"
+    },
+    {
+      "jp": "こわい",
+      "kanji": "怖い",
+      "eng": "frightening"
+    },
+    {
+      "jp": "サーフィン",
+      "kanji": "",
+      "eng": "surfing"
+    },
+    {
+      "jp": "～さま",
+      "kanji": "～様",
+      "eng": "Mr./Ms. . . ."
+    },
+    {
+      "jp": "さむい",
+      "kanji": "寒い",
+      "eng": "cold (weather)"
+    },
+    {
+      "jp": "しずか（な）",
+      "kanji": "静か",
+      "eng": "quiet"
+    },
+    {
+      "jp": "しゅくだい",
+      "kanji": "宿題",
+      "eng": "homework"
+    },
+    {
+      "jp": "しろ",
+      "kanji": "城",
+      "eng": "castle"
+    },
+    {
+      "jp": "すき（な）",
+      "kanji": "好き",
+      "eng": "fond of; to like"
+    },
+    {
+      "jp": "すごく",
+      "kanji": "",
+      "eng": "extremely"
+    },
+    {
+      "jp": "だいきらい（な）",
+      "kanji": "大嫌い",
+      "eng": "to hate"
+    },
+    {
+      "jp": "だいじょうぶ",
+      "kanji": "大丈夫",
+      "eng": "It’s okay.; Not to worry.; Everything is under control."
+    },
+    {
+      "jp": "だいすき（な）",
+      "kanji": "大好き",
+      "eng": "very fond of; to love"
+    },
+    {
+      "jp": "たいへん（な）",
+      "kanji": "大変",
+      "eng": "tough (situation)"
+    },
+    {
+      "jp": "たのしい",
+      "kanji": "楽しい",
+      "eng": "fun"
+    },
+    {
+      "jp": "たべもの",
+      "kanji": "食べ物",
+      "eng": "food"
+    },
+    {
+      "jp": "たんじょうび",
+      "kanji": "誕生日",
+      "eng": "birthday"
+    },
+    {
+      "jp": "ちいさい",
+      "kanji": "小さい",
+      "eng": "small"
+    },
+    {
+      "jp": "つまらない",
+      "kanji": "",
+      "eng": "boring"
+    },
+    {
+      "jp": "でかける",
+      "kanji": "出かける",
+      "eng": "to go out"
+    },
+    {
+      "jp": "テスト",
+      "kanji": "",
+      "eng": "test"
+    },
+    {
+      "jp": "では、おげんきで",
+      "kanji": "では、お元気で",
+      "eng": "Take care."
+    },
+    {
+      "jp": "てんき",
+      "kanji": "天気",
+      "eng": "weather"
+    },
+    {
+      "jp": "とても",
+      "kanji": "",
+      "eng": "very"
+    },
+    {
+      "jp": "どんな",
+      "kanji": "",
+      "eng": "what kind of . . ."
+    },
+    {
+      "jp": "にぎやか（な）",
+      "kanji": "",
+      "eng": "lively"
+    },
+    {
+      "jp": "のみもの",
+      "kanji": "飲み物",
+      "eng": "drink"
+    },
+    {
+      "jp": "のる",
+      "kanji": "乗る",
+      "eng": "to ride; to board"
+    },
+    {
+      "jp": "バス",
+      "kanji": "",
+      "eng": "bus"
+    },
+    {
+      "jp": "ひま（な）",
+      "kanji": "暇",
+      "eng": "not busy; free (time)"
+    },
+    {
+      "jp": "ふるい",
+      "kanji": "古い",
+      "eng": "old (thing)"
+    },
+    {
+      "jp": "へや",
+      "kanji": "部屋",
+      "eng": "room"
+    },
+    {
+      "jp": "ぼく",
+      "kanji": "僕",
+      "eng": "I (used by men)"
+    },
+    {
+      "jp": "～まい",
+      "kanji": "～枚",
+      "eng": "[counter for flat objects]"
+    },
+    {
+      "jp": "みやげ",
+      "kanji": "土産",
+      "eng": "souvenir"
+    },
+    {
+      "jp": "むずかしい",
+      "kanji": "難しい",
+      "eng": "difficult"
+    },
+    {
+      "jp": "メキシコ",
+      "kanji": "",
+      "eng": "Mexico"
+    },
+    {
+      "jp": "やさしい",
+      "kanji": "",
+      "eng": "easy (problem); kind (person)"
+    },
+    {
+      "jp": "やすい",
+      "kanji": "安い",
+      "eng": "inexpensive; cheap (thing)"
+    },
+    {
+      "jp": "やすみ",
+      "kanji": "休み",
+      "eng": "holiday; day off; absence"
+    },
+    {
+      "jp": "やま",
+      "kanji": "山",
+      "eng": "mountain"
+    },
+    {
+      "jp": "やる",
+      "kanji": "",
+      "eng": "to do; to perform"
+    },
+    {
+      "jp": "よる",
+      "kanji": "夜",
+      "eng": "night"
+    },
+    {
+      "jp": "りょこう",
+      "kanji": "旅行",
+      "eng": "travel"
+    }
+  ],
+  "6": [
+    {
+      "jp": "あける",
+      "kanji": "開ける",
+      "eng": "to open (something)"
+    },
+    {
+      "jp": "あそぶ",
+      "kanji": "遊ぶ",
+      "eng": "to play; to spend time pleasantly"
+    },
+    {
+      "jp": "あとで",
+      "kanji": "後で",
+      "eng": "later on"
+    },
+    {
+      "jp": "いそぐ",
+      "kanji": "急ぐ",
+      "eng": "to hurry"
+    },
+    {
+      "jp": "イタリア",
+      "kanji": "",
+      "eng": "Italy"
+    },
+    {
+      "jp": "いつも",
+      "kanji": "",
+      "eng": "always"
+    },
+    {
+      "jp": "エアコン",
+      "kanji": "",
+      "eng": "air conditioner"
+    },
+    {
+      "jp": "えき",
+      "kanji": "駅",
+      "eng": "station"
+    },
+    {
+      "jp": "おかね",
+      "kanji": "お金",
+      "eng": "money"
+    },
+    {
+      "jp": "おしえる",
+      "kanji": "教える",
+      "eng": "to teach; to instruct"
+    },
+    {
+      "jp": "おりる",
+      "kanji": "降りる",
+      "eng": "to get off"
+    },
+    {
+      "jp": "かえす",
+      "kanji": "返す",
+      "eng": "to return (a thing)"
+    },
+    {
+      "jp": "かど",
+      "kanji": "角",
+      "eng": "corner"
+    },
+    {
+      "jp": "かね",
+      "kanji": "金",
+      "eng": "money"
+    },
+    {
+      "jp": "かりる",
+      "kanji": "借りる",
+      "eng": "to borrow"
+    },
+    {
+      "jp": "かんじ",
+      "kanji": "漢字",
+      "eng": "kanji; Chinese character"
+    },
+    {
+      "jp": "きた",
+      "kanji": "北",
+      "eng": "north"
+    },
+    {
+      "jp": "きょうかしょ",
+      "kanji": "教科書",
+      "eng": "textbook"
+    },
+    {
+      "jp": "くに",
+      "kanji": "国",
+      "eng": "country; place of origin"
+    },
+    {
+      "jp": "けす",
+      "kanji": "消す",
+      "eng": "to turn off; to erase"
+    },
+    {
+      "jp": "けっこうです",
+      "kanji": "結構です",
+      "eng": "That would be fine.; That wouldn’t be necessary."
+    },
+    {
+      "jp": "シェフ",
+      "kanji": "",
+      "eng": "chef"
+    },
+    {
+      "jp": "しぬ",
+      "kanji": "死ぬ",
+      "eng": "to die"
+    },
+    {
+      "jp": "しめる",
+      "kanji": "閉める",
+      "eng": "to close (something)"
+    },
+    {
+      "jp": "シャワー",
+      "kanji": "",
+      "eng": "shower"
+    },
+    {
+      "jp": "シャワーをあびる",
+      "kanji": "シャワーを浴びる",
+      "eng": "to take a shower"
+    },
+    {
+      "jp": "しんごう",
+      "kanji": "信号",
+      "eng": "traffic light"
+    },
+    {
+      "jp": "すぐ",
+      "kanji": "",
+      "eng": "right away"
+    },
+    {
+      "jp": "すわる",
+      "kanji": "座る",
+      "eng": "to sit down"
+    },
+    {
+      "jp": "たつ",
+      "kanji": "立つ",
+      "eng": "to stand up"
+    },
+    {
+      "jp": "たばこをすう",
+      "kanji": "たばこを吸う",
+      "eng": "to smoke"
+    },
+    {
+      "jp": "つかう",
+      "kanji": "使う",
+      "eng": "to use"
+    },
+    {
+      "jp": "つぎ",
+      "kanji": "次",
+      "eng": "next"
+    },
+    {
+      "jp": "つける",
+      "kanji": "",
+      "eng": "to turn on"
+    },
+    {
+      "jp": "つれてくる",
+      "kanji": "連れてくる",
+      "eng": "to bring (a person)"
+    },
+    {
+      "jp": "てつだう",
+      "kanji": "手伝う",
+      "eng": "to help"
+    },
+    {
+      "jp": "でる",
+      "kanji": "出る",
+      "eng": "to appear; to attend; to exit"
+    },
+    {
+      "jp": "でんしゃ",
+      "kanji": "電車",
+      "eng": "train"
+    },
+    {
+      "jp": "でんわする",
+      "kanji": "電話する",
+      "eng": "to call"
+    },
+    {
+      "jp": "にし",
+      "kanji": "西",
+      "eng": "west"
+    },
+    {
+      "jp": "にもつ",
+      "kanji": "荷物",
+      "eng": "baggage"
+    },
+    {
+      "jp": "はいる",
+      "kanji": "入る",
+      "eng": "to enter"
+    },
+    {
+      "jp": "パソコン",
+      "kanji": "",
+      "eng": "personal computer"
+    },
+    {
+      "jp": "ひがし",
+      "kanji": "東",
+      "eng": "east"
+    },
+    {
+      "jp": "ピザ",
+      "kanji": "",
+      "eng": "pizza"
+    },
+    {
+      "jp": "ひだりがわ",
+      "kanji": "左側",
+      "eng": "left side"
+    },
+    {
+      "jp": "ひとつめ",
+      "kanji": "一つ目",
+      "eng": "first"
+    },
+    {
+      "jp": "ふたつめ",
+      "kanji": "二つ目",
+      "eng": "second"
+    },
+    {
+      "jp": "ページ",
+      "kanji": "",
+      "eng": "page"
+    },
+    {
+      "jp": "ほんとうですか",
+      "kanji": "本当ですか",
+      "eng": "Really?"
+    },
+    {
+      "jp": "まがる",
+      "kanji": "曲がる",
+      "eng": "to turn (right/left)"
+    },
+    {
+      "jp": "まっすぐ",
+      "kanji": "",
+      "eng": "straight"
+    },
+    {
+      "jp": "みぎがわ",
+      "kanji": "右側",
+      "eng": "right side"
+    },
+    {
+      "jp": "みっつめ",
+      "kanji": "三つ目",
+      "eng": "third"
+    },
+    {
+      "jp": "みなさん",
+      "kanji": "皆さん",
+      "eng": "everyone; all of you"
+    },
+    {
+      "jp": "みなみ",
+      "kanji": "南",
+      "eng": "south"
+    },
+    {
+      "jp": "もつ",
+      "kanji": "持つ",
+      "eng": "to carry; to hold"
+    },
+    {
+      "jp": "もってくる",
+      "kanji": "持ってくる",
+      "eng": "to bring (a thing)"
+    },
+    {
+      "jp": "やすむ",
+      "kanji": "休む",
+      "eng": "to be absent (from); to rest"
+    },
+    {
+      "jp": "ゆっくり",
+      "kanji": "",
+      "eng": "slowly; leisurely; unhurriedly"
+    },
+    {
+      "jp": "りょうり",
+      "kanji": "料理",
+      "eng": "cooking; dish"
+    },
+    {
+      "jp": "ワイン",
+      "kanji": "",
+      "eng": "wine"
+    },
+    {
+      "jp": "わすれる",
+      "kanji": "忘れる",
+      "eng": "to forget; to leave behind"
+    },
+    {
+      "jp": "わたる",
+      "kanji": "渡る",
+      "eng": "to cross"
+    }
+  ],
+  "7": [
+    {
+      "jp": "あし",
+      "kanji": "足",
+      "eng": "leg; foot"
+    },
+    {
+      "jp": "あたま",
+      "kanji": "頭",
+      "eng": "head"
+    },
+    {
+      "jp": "あたまがいい",
+      "kanji": "頭がいい",
+      "eng": "bright; smart; clever"
+    },
+    {
+      "jp": "あに",
+      "kanji": "兄",
+      "eng": "(my) older brother"
+    },
+    {
+      "jp": "あね",
+      "kanji": "姉",
+      "eng": "(my) older sister"
+    },
+    {
+      "jp": "うた",
+      "kanji": "歌",
+      "eng": "song"
+    },
+    {
+      "jp": "うたう",
+      "kanji": "歌う",
+      "eng": "to sing"
+    },
+    {
+      "jp": "おじいさん",
+      "kanji": "",
+      "eng": "grandfather; old man"
+    },
+    {
+      "jp": "おしり",
+      "kanji": "お尻",
+      "eng": "buttocks"
+    },
+    {
+      "jp": "おなか",
+      "kanji": "",
+      "eng": "stomach"
+    },
+    {
+      "jp": "おばあさん",
+      "kanji": "",
+      "eng": "grandmother; old woman"
+    },
+    {
+      "jp": "かいしゃ",
+      "kanji": "会社",
+      "eng": "company"
+    },
+    {
+      "jp": "かお",
+      "kanji": "顔",
+      "eng": "face"
+    },
+    {
+      "jp": "かける（めがねを）",
+      "kanji": "かける（眼鏡を）",
+      "eng": "to put on (glasses)"
+    },
+    {
+      "jp": "かぞく",
+      "kanji": "家族",
+      "eng": "family"
+    },
+    {
+      "jp": "かた",
+      "kanji": "肩",
+      "eng": "shoulder"
+    },
+    {
+      "jp": "かぶる",
+      "kanji": "",
+      "eng": "to put on (a hat)"
+    },
+    {
+      "jp": "かみ",
+      "kanji": "髪",
+      "eng": "hair"
+    },
+    {
+      "jp": "～から",
+      "kanji": "",
+      "eng": "from . . ."
+    },
+    {
+      "jp": "からだにきをつける",
+      "kanji": "体に気をつける",
+      "eng": "to take care of oneself"
+    },
+    {
+      "jp": "かわいい",
+      "kanji": "",
+      "eng": "cute"
+    },
+    {
+      "jp": "きょうだい",
+      "kanji": "兄弟",
+      "eng": "brothers and sisters"
+    },
+    {
+      "jp": "きる",
+      "kanji": "着る",
+      "eng": "to put on (clothes above your waist)"
+    },
+    {
+      "jp": "くち",
+      "kanji": "口",
+      "eng": "mouth"
+    },
+    {
+      "jp": "くび",
+      "kanji": "首",
+      "eng": "neck"
+    },
+    {
+      "jp": "くるま",
+      "kanji": "車",
+      "eng": "car"
+    },
+    {
+      "jp": "けっこんする",
+      "kanji": "結婚する",
+      "eng": "to get married"
+    },
+    {
+      "jp": "サークル",
+      "kanji": "",
+      "eng": "club activity"
+    },
+    {
+      "jp": "しっています",
+      "kanji": "知っています",
+      "eng": "I know"
+    },
+    {
+      "jp": "じゅく",
+      "kanji": "塾",
+      "eng": "cram school"
+    },
+    {
+      "jp": "しょくどう",
+      "kanji": "食堂",
+      "eng": "cafeteria; dining commons"
+    },
+    {
+      "jp": "しり",
+      "kanji": "尻",
+      "eng": "buttocks"
+    },
+    {
+      "jp": "しりません",
+      "kanji": "知りません",
+      "eng": "I do not know"
+    },
+    {
+      "jp": "しる",
+      "kanji": "知る",
+      "eng": "to get to know"
+    },
+    {
+      "jp": "しんせつ（な）",
+      "kanji": "親切",
+      "eng": "kind"
+    },
+    {
+      "jp": "すこし",
+      "kanji": "少し",
+      "eng": "a little"
+    },
+    {
+      "jp": "すむ",
+      "kanji": "住む",
+      "eng": "to live"
+    },
+    {
+      "jp": "せがたかい",
+      "kanji": "背が高い",
+      "eng": "tall (stature)"
+    },
+    {
+      "jp": "せがひくい",
+      "kanji": "背が低い",
+      "eng": "short (stature)"
+    },
+    {
+      "jp": "せなか",
+      "kanji": "背中",
+      "eng": "back (body)"
+    },
+    {
+      "jp": "たのしみにする（〜を）",
+      "kanji": "楽しみにする",
+      "eng": "to look forward (to)"
+    },
+    {
+      "jp": "ちち",
+      "kanji": "父",
+      "eng": "(my) father"
+    },
+    {
+      "jp": "て",
+      "kanji": "手",
+      "eng": "hand; arm"
+    },
+    {
+      "jp": "デパート",
+      "kanji": "",
+      "eng": "department store"
+    },
+    {
+      "jp": "とる",
+      "kanji": "取る",
+      "eng": "to take (a class); to get (a grade)"
+    },
+    {
+      "jp": "ながい",
+      "kanji": "長い",
+      "eng": "long"
+    },
+    {
+      "jp": "なにも ＋ negative",
+      "kanji": "何も",
+      "eng": "not . . . anything"
+    },
+    {
+      "jp": "～にん",
+      "kanji": "～人",
+      "eng": "[counter for people]"
+    },
+    {
+      "jp": "は",
+      "kanji": "歯",
+      "eng": "tooth"
+    },
+    {
+      "jp": "はく",
+      "kanji": "",
+      "eng": "to put on (items below your waist)"
+    },
+    {
+      "jp": "はたらく",
+      "kanji": "働く",
+      "eng": "to work"
+    },
+    {
+      "jp": "はな",
+      "kanji": "鼻",
+      "eng": "nose"
+    },
+    {
+      "jp": "はは",
+      "kanji": "母",
+      "eng": "(my) mother"
+    },
+    {
+      "jp": "はやい",
+      "kanji": "速い",
+      "eng": "fast"
+    },
+    {
+      "jp": "ひとり",
+      "kanji": "一人",
+      "eng": "one person"
+    },
+    {
+      "jp": "ふたり",
+      "kanji": "二人",
+      "eng": "two people"
+    },
+    {
+      "jp": "ふとっています",
+      "kanji": "太っています",
+      "eng": "to be on the heavy side"
+    },
+    {
+      "jp": "ふとる",
+      "kanji": "太る",
+      "eng": "to gain weight; overweight"
+    },
+    {
+      "jp": "べつに ＋ negative",
+      "kanji": "別に",
+      "eng": "nothing in particular"
+    },
+    {
+      "jp": "べんり（な）",
+      "kanji": "便利",
+      "eng": "convenient"
+    },
+    {
+      "jp": "まゆげ",
+      "kanji": "眉毛",
+      "eng": "eyebrow"
+    },
+    {
+      "jp": "みじかい",
+      "kanji": "短い",
+      "eng": "short (length)"
+    },
+    {
+      "jp": "みみ",
+      "kanji": "耳",
+      "eng": "ear"
+    },
+    {
+      "jp": "みんな",
+      "kanji": "",
+      "eng": "all"
+    },
+    {
+      "jp": "むね",
+      "kanji": "胸",
+      "eng": "breast"
+    },
+    {
+      "jp": "め",
+      "kanji": "目",
+      "eng": "eye"
+    },
+    {
+      "jp": "めがね",
+      "kanji": "眼鏡",
+      "eng": "glasses"
+    },
+    {
+      "jp": "もちろん",
+      "kanji": "",
+      "eng": "of course"
+    },
+    {
+      "jp": "やせています",
+      "kanji": "",
+      "eng": "to be thin"
+    },
+    {
+      "jp": "やせる",
+      "kanji": "",
+      "eng": "to lose weight"
+    },
+    {
+      "jp": "ゆび",
+      "kanji": "指",
+      "eng": "finger"
+    },
+    {
+      "jp": "よかったら",
+      "kanji": "",
+      "eng": "if you like"
+    }
+  ],
+  "8": [
+    {
+      "jp": "（〜の）あと",
+      "kanji": "後",
+      "eng": "after (an event)"
+    },
+    {
+      "jp": "アボカド",
+      "kanji": "",
+      "eng": "avocado"
+    },
+    {
+      "jp": "あめ",
+      "kanji": "雨",
+      "eng": "rain"
+    },
+    {
+      "jp": "あらう",
+      "kanji": "洗う",
+      "eng": "to wash"
+    },
+    {
+      "jp": "アレルギー",
+      "kanji": "",
+      "eng": "allergy"
+    },
+    {
+      "jp": "アンケート",
+      "kanji": "",
+      "eng": "questionnaire"
+    },
+    {
+      "jp": "いう",
+      "kanji": "言う",
+      "eng": "to say"
+    },
+    {
+      "jp": "いちご",
+      "kanji": "",
+      "eng": "strawberry"
+    },
+    {
+      "jp": "いる",
+      "kanji": "",
+      "eng": "to need"
+    },
+    {
+      "jp": "ううん",
+      "kanji": "",
+      "eng": "uh-uh; no"
+    },
+    {
+      "jp": "うん",
+      "kanji": "",
+      "eng": "uh-huh; yes"
+    },
+    {
+      "jp": "うんてんする",
+      "kanji": "運転する",
+      "eng": "to drive"
+    },
+    {
+      "jp": "おそくなる",
+      "kanji": "遅くなる",
+      "eng": "to be late"
+    },
+    {
+      "jp": "おふろ",
+      "kanji": "お風呂",
+      "eng": "bath"
+    },
+    {
+      "jp": "おふろにはいる",
+      "kanji": "お風呂に入る",
+      "eng": "to take a bath"
+    },
+    {
+      "jp": "おもう",
+      "kanji": "思う",
+      "eng": "to think"
+    },
+    {
+      "jp": "カメラ",
+      "kanji": "",
+      "eng": "camera"
+    },
+    {
+      "jp": "カラオケ",
+      "kanji": "",
+      "eng": "karaoke"
+    },
+    {
+      "jp": "かんぱい",
+      "kanji": "乾杯",
+      "eng": "Cheers! (a toast)"
+    },
+    {
+      "jp": "きおん",
+      "kanji": "気温",
+      "eng": "temperature (weather)"
+    },
+    {
+      "jp": "キャベツ",
+      "kanji": "",
+      "eng": "cabbage"
+    },
+    {
+      "jp": "ぎゅうにく",
+      "kanji": "牛肉",
+      "eng": "beef"
+    },
+    {
+      "jp": "きゅうり",
+      "kanji": "",
+      "eng": "cucumber"
+    },
+    {
+      "jp": "きる",
+      "kanji": "切る",
+      "eng": "to cut"
+    },
+    {
+      "jp": "くもり",
+      "kanji": "曇り",
+      "eng": "cloudy weather"
+    },
+    {
+      "jp": "けさ",
+      "kanji": "今朝",
+      "eng": "this morning"
+    },
+    {
+      "jp": "こたえる",
+      "kanji": "答える",
+      "eng": "to answer"
+    },
+    {
+      "jp": "このあいだ",
+      "kanji": "この間",
+      "eng": "the other day"
+    },
+    {
+      "jp": "さいごに",
+      "kanji": "最後に",
+      "eng": "finally; lastly"
+    },
+    {
+      "jp": "ざんぎょう",
+      "kanji": "残業",
+      "eng": "overtime work"
+    },
+    {
+      "jp": "ざんねん（ですね）",
+      "kanji": "残念（ですね）",
+      "eng": "That’s too bad."
+    },
+    {
+      "jp": "しごと",
+      "kanji": "仕事",
+      "eng": "job; work; occupation"
+    },
+    {
+      "jp": "じゃがいも",
+      "kanji": "",
+      "eng": "potato"
+    },
+    {
+      "jp": "じょうず（な）",
+      "kanji": "上手",
+      "eng": "skillful; good at . . ."
+    },
+    {
+      "jp": "すいか",
+      "kanji": "",
+      "eng": "watermelon"
+    },
+    {
+      "jp": "すてる",
+      "kanji": "捨てる",
+      "eng": "to throw away"
+    },
+    {
+      "jp": "ストレス",
+      "kanji": "",
+      "eng": "stress"
+    },
+    {
+      "jp": "スペイン",
+      "kanji": "",
+      "eng": "Spain"
+    },
+    {
+      "jp": "せんたくする",
+      "kanji": "洗濯する",
+      "eng": "to do laundry"
+    },
+    {
+      "jp": "そうじする",
+      "kanji": "掃除する",
+      "eng": "to clean"
+    },
+    {
+      "jp": "たまねぎ",
+      "kanji": "",
+      "eng": "onion"
+    },
+    {
+      "jp": "つかれている",
+      "kanji": "疲れている",
+      "eng": "to be tired"
+    },
+    {
+      "jp": "つぎに",
+      "kanji": "次に",
+      "eng": "secondly"
+    },
+    {
+      "jp": "つくる",
+      "kanji": "作る",
+      "eng": "to make"
+    },
+    {
+      "jp": "てんきよほう",
+      "kanji": "天気予報",
+      "eng": "weather forecast"
+    },
+    {
+      "jp": "～ど",
+      "kanji": "～度",
+      "eng": ". . . degrees (temperature)"
+    },
+    {
+      "jp": "どう",
+      "kanji": "",
+      "eng": "how"
+    },
+    {
+      "jp": "ところ",
+      "kanji": "所",
+      "eng": "place"
+    },
+    {
+      "jp": "トマト",
+      "kanji": "",
+      "eng": "tomato"
+    },
+    {
+      "jp": "とりにく",
+      "kanji": "鶏肉",
+      "eng": "chicken"
+    },
+    {
+      "jp": "なす",
+      "kanji": "",
+      "eng": "eggplant"
+    },
+    {
+      "jp": "なつ",
+      "kanji": "夏",
+      "eng": "summer"
+    },
+    {
+      "jp": "なにか",
+      "kanji": "何か",
+      "eng": "something"
+    },
+    {
+      "jp": "～について",
+      "kanji": "",
+      "eng": "about . . . ; concerning . . ."
+    },
+    {
+      "jp": "にんじん",
+      "kanji": "",
+      "eng": "carrot"
+    },
+    {
+      "jp": "パーティー",
+      "kanji": "",
+      "eng": "party"
+    },
+    {
+      "jp": "バーベキュー",
+      "kanji": "",
+      "eng": "barbecue"
+    },
+    {
+      "jp": "はし",
+      "kanji": "",
+      "eng": "chopsticks"
+    },
+    {
+      "jp": "はじめる",
+      "kanji": "始める",
+      "eng": "to begin"
+    },
+    {
+      "jp": "はなし",
+      "kanji": "話",
+      "eng": "story; talk"
+    },
+    {
+      "jp": "ハラルフード",
+      "kanji": "",
+      "eng": "halal"
+    },
+    {
+      "jp": "はれ",
+      "kanji": "晴れ",
+      "eng": "sunny weather"
+    },
+    {
+      "jp": "ピーナッツ",
+      "kanji": "",
+      "eng": "peanut"
+    },
+    {
+      "jp": "ふくろ",
+      "kanji": "袋",
+      "eng": "bag; sack; plastic/paper bag"
+    },
+    {
+      "jp": "ぶたにく",
+      "kanji": "豚肉",
+      "eng": "pork"
+    },
+    {
+      "jp": "ぶどう",
+      "kanji": "",
+      "eng": "grape"
+    },
+    {
+      "jp": "ふゆ",
+      "kanji": "冬",
+      "eng": "winter"
+    },
+    {
+      "jp": "ふる（あめ/ゆきが）",
+      "kanji": "降る（雨/雪が）",
+      "eng": "(rain/snow) falls"
+    },
+    {
+      "jp": "ふろ",
+      "kanji": "風呂",
+      "eng": "bath"
+    },
+    {
+      "jp": "ふろにはいる",
+      "kanji": "風呂に入る",
+      "eng": "to take a bath"
+    },
+    {
+      "jp": "へた（な）",
+      "kanji": "下手",
+      "eng": "clumsy; poor at . . ."
+    },
+    {
+      "jp": "ホームステイ",
+      "kanji": "",
+      "eng": "homestay; living with a local family"
+    },
+    {
+      "jp": "まいしゅう",
+      "kanji": "毎週",
+      "eng": "every week"
+    },
+    {
+      "jp": "まず",
+      "kanji": "",
+      "eng": "first of all"
+    },
+    {
+      "jp": "まだ ＋ negative",
+      "kanji": "",
+      "eng": "not . . . yet"
+    },
+    {
+      "jp": "みかん",
+      "kanji": "",
+      "eng": "mandarin orange"
+    },
+    {
+      "jp": "みんなで",
+      "kanji": "",
+      "eng": "all (of the people) together"
+    },
+    {
+      "jp": "もっていく",
+      "kanji": "持っていく",
+      "eng": "to take (a thing)"
+    },
+    {
+      "jp": "もも",
+      "kanji": "",
+      "eng": "peach"
+    },
+    {
+      "jp": "ゆうめい（な）",
+      "kanji": "有名",
+      "eng": "famous"
+    },
+    {
+      "jp": "りょうりする",
+      "kanji": "料理する",
+      "eng": "to cook"
+    },
+    {
+      "jp": "りんご",
+      "kanji": "",
+      "eng": "apple"
+    }
+  ],
+  "9": [
+    {
+      "jp": "あおい",
+      "kanji": "青い",
+      "eng": "blue"
+    },
+    {
+      "jp": "あおしんごう",
+      "kanji": "青信号",
+      "eng": "green light"
+    },
+    {
+      "jp": "あかい",
+      "kanji": "赤い",
+      "eng": "red"
+    },
+    {
+      "jp": "あんないする",
+      "kanji": "案内する",
+      "eng": "to show (someone) around"
+    },
+    {
+      "jp": "いいこ",
+      "kanji": "いい子",
+      "eng": "good child"
+    },
+    {
+      "jp": "いじわる（な）",
+      "kanji": "意地悪",
+      "eng": "mean-spirited"
+    },
+    {
+      "jp": "いつつ",
+      "kanji": "五つ",
+      "eng": "five"
+    },
+    {
+      "jp": "いろ",
+      "kanji": "色",
+      "eng": "color"
+    },
+    {
+      "jp": "いろいろ（な）",
+      "kanji": "",
+      "eng": "various; different kinds of"
+    },
+    {
+      "jp": "うんどうする",
+      "kanji": "運動する",
+      "eng": "to exercise"
+    },
+    {
+      "jp": "おどる",
+      "kanji": "踊る",
+      "eng": "to dance"
+    },
+    {
+      "jp": "おべんとう",
+      "kanji": "お弁当",
+      "eng": "boxed lunch"
+    },
+    {
+      "jp": "おぼえる",
+      "kanji": "覚える",
+      "eng": "to memorize"
+    },
+    {
+      "jp": "オレンジ",
+      "kanji": "",
+      "eng": "orange"
+    },
+    {
+      "jp": "おわる",
+      "kanji": "終わる",
+      "eng": "(something) ends"
+    },
+    {
+      "jp": "かおがあおい",
+      "kanji": "顔が青い",
+      "eng": "to look pale"
+    },
+    {
+      "jp": "かぶき",
+      "kanji": "歌舞伎",
+      "eng": "Kabuki; traditional Japanese theatrical art"
+    },
+    {
+      "jp": "きいろい",
+      "kanji": "黄色い",
+      "eng": "yellow"
+    },
+    {
+      "jp": "ギター",
+      "kanji": "",
+      "eng": "guitar"
+    },
+    {
+      "jp": "きもの",
+      "kanji": "着物",
+      "eng": "kimono; Japanese traditional dress"
+    },
+    {
+      "jp": "きんいろ",
+      "kanji": "金色",
+      "eng": "gold"
+    },
+    {
+      "jp": "ぎんいろ",
+      "kanji": "銀色",
+      "eng": "silver"
+    },
+    {
+      "jp": "くすり",
+      "kanji": "薬",
+      "eng": "medicine"
+    },
+    {
+      "jp": "くすりをのむ",
+      "kanji": "薬を飲む",
+      "eng": "to take medicine"
+    },
+    {
+      "jp": "グリーン",
+      "kanji": "",
+      "eng": "green"
+    },
+    {
+      "jp": "グレー",
+      "kanji": "",
+      "eng": "gray"
+    },
+    {
+      "jp": "くろい",
+      "kanji": "黒い",
+      "eng": "black"
+    },
+    {
+      "jp": "ゴールド",
+      "kanji": "",
+      "eng": "gold"
+    },
+    {
+      "jp": "ここのつ",
+      "kanji": "九つ",
+      "eng": "nine"
+    },
+    {
+      "jp": "ごぜんちゅう",
+      "kanji": "午前中",
+      "eng": "in the morning"
+    },
+    {
+      "jp": "ごちそう",
+      "kanji": "",
+      "eng": "excellent food"
+    },
+    {
+      "jp": "こんいろ",
+      "kanji": "紺色",
+      "eng": "navy"
+    },
+    {
+      "jp": "コンサート",
+      "kanji": "",
+      "eng": "concert"
+    },
+    {
+      "jp": "こんど",
+      "kanji": "今度",
+      "eng": "near future"
+    },
+    {
+      "jp": "さくぶん",
+      "kanji": "作文",
+      "eng": "essay; composition"
+    },
+    {
+      "jp": "さびしい",
+      "kanji": "寂しい",
+      "eng": "lonely"
+    },
+    {
+      "jp": "さんぽする",
+      "kanji": "散歩する",
+      "eng": "to take a walk"
+    },
+    {
+      "jp": "しけん",
+      "kanji": "試験",
+      "eng": "exam"
+    },
+    {
+      "jp": "シルバー",
+      "kanji": "",
+      "eng": "silver"
+    },
+    {
+      "jp": "しろい",
+      "kanji": "白い",
+      "eng": "white"
+    },
+    {
+      "jp": "しろくろ",
+      "kanji": "白黒",
+      "eng": "black and white"
+    },
+    {
+      "jp": "スキー",
+      "kanji": "",
+      "eng": "ski"
+    },
+    {
+      "jp": "ぜひ",
+      "kanji": "是非",
+      "eng": "by all means"
+    },
+    {
+      "jp": "そう",
+      "kanji": "",
+      "eng": "(I think) so"
+    },
+    {
+      "jp": "そして",
+      "kanji": "",
+      "eng": "and then"
+    },
+    {
+      "jp": "たんご",
+      "kanji": "単語",
+      "eng": "word; vocabulary"
+    },
+    {
+      "jp": "チケット",
+      "kanji": "",
+      "eng": "ticket"
+    },
+    {
+      "jp": "ちゃいろい",
+      "kanji": "茶色い",
+      "eng": "brown"
+    },
+    {
+      "jp": "てがみ",
+      "kanji": "手紙",
+      "eng": "letter"
+    },
+    {
+      "jp": "とお",
+      "kanji": "十",
+      "eng": "ten"
+    },
+    {
+      "jp": "ところで",
+      "kanji": "",
+      "eng": "by the way"
+    },
+    {
+      "jp": "ななつ",
+      "kanji": "七つ",
+      "eng": "seven"
+    },
+    {
+      "jp": "にっき",
+      "kanji": "日記",
+      "eng": "diary"
+    },
+    {
+      "jp": "にんきがある",
+      "kanji": "人気がある",
+      "eng": "to be popular"
+    },
+    {
+      "jp": "はいいろ",
+      "kanji": "灰色",
+      "eng": "gray"
+    },
+    {
+      "jp": "はじまる",
+      "kanji": "始まる",
+      "eng": "(something) begins"
+    },
+    {
+      "jp": "はなしをする",
+      "kanji": "話をする",
+      "eng": "to have a talk"
+    },
+    {
+      "jp": "ピアノ",
+      "kanji": "",
+      "eng": "piano"
+    },
+    {
+      "jp": "ひく",
+      "kanji": "弾く",
+      "eng": "to play (a string instrument or piano)"
+    },
+    {
+      "jp": "ひとつ",
+      "kanji": "一つ",
+      "eng": "one"
+    },
+    {
+      "jp": "びょうき",
+      "kanji": "病気",
+      "eng": "illness; sickness"
+    },
+    {
+      "jp": "ひる",
+      "kanji": "昼",
+      "eng": "noon"
+    },
+    {
+      "jp": "ピンク",
+      "kanji": "",
+      "eng": "pink"
+    },
+    {
+      "jp": "ふたつ",
+      "kanji": "二つ",
+      "eng": "two"
+    },
+    {
+      "jp": "ベージュ",
+      "kanji": "",
+      "eng": "beige"
+    },
+    {
+      "jp": "べんとう",
+      "kanji": "弁当",
+      "eng": "boxed lunch"
+    },
+    {
+      "jp": "ホストファミリー",
+      "kanji": "",
+      "eng": "host family"
+    },
+    {
+      "jp": "～まで",
+      "kanji": "",
+      "eng": "to (a place/a time)"
+    },
+    {
+      "jp": "みずいろ",
+      "kanji": "水色",
+      "eng": "light blue"
+    },
+    {
+      "jp": "みっつ",
+      "kanji": "三つ",
+      "eng": "three"
+    },
+    {
+      "jp": "みどり",
+      "kanji": "緑",
+      "eng": "green"
+    },
+    {
+      "jp": "むっつ",
+      "kanji": "六つ",
+      "eng": "six"
+    },
+    {
+      "jp": "むらさき",
+      "kanji": "紫",
+      "eng": "purple"
+    },
+    {
+      "jp": "メール",
+      "kanji": "",
+      "eng": "e-mail"
+    },
+    {
+      "jp": "もう",
+      "kanji": "",
+      "eng": "already"
+    },
+    {
+      "jp": "もらう",
+      "kanji": "",
+      "eng": "to get (from somebody)"
+    },
+    {
+      "jp": "やっつ",
+      "kanji": "八つ",
+      "eng": "eight"
+    },
+    {
+      "jp": "よっつ",
+      "kanji": "四つ",
+      "eng": "four"
+    },
+    {
+      "jp": "りょう",
+      "kanji": "寮",
+      "eng": "dormitory"
+    },
+    {
+      "jp": "わかい",
+      "kanji": "若い",
+      "eng": "young"
+    }
+  ],
+  "10": [
+    {
+      "jp": "あき",
+      "kanji": "秋",
+      "eng": "fall"
+    },
+    {
+      "jp": "あたたかい",
+      "kanji": "暖かい",
+      "eng": "warm"
+    },
+    {
+      "jp": "あるいて",
+      "kanji": "歩いて",
+      "eng": "on foot"
+    },
+    {
+      "jp": "いいこと",
+      "kanji": "",
+      "eng": "good deed"
+    },
+    {
+      "jp": "～いき",
+      "kanji": "～行き",
+      "eng": "bound for . . ."
+    },
+    {
+      "jp": "いちごうしゃ",
+      "kanji": "一号車",
+      "eng": "Car No. 1"
+    },
+    {
+      "jp": "いちばん",
+      "kanji": "一番",
+      "eng": "best"
+    },
+    {
+      "jp": "いりぐち",
+      "kanji": "入口",
+      "eng": "entrance"
+    },
+    {
+      "jp": "うる",
+      "kanji": "売る",
+      "eng": "to sell"
+    },
+    {
+      "jp": "おうふく",
+      "kanji": "往復",
+      "eng": "round trip"
+    },
+    {
+      "jp": "おかねもち",
+      "kanji": "お金持ち",
+      "eng": "rich person"
+    },
+    {
+      "jp": "おじぞうさん",
+      "kanji": "",
+      "eng": "guardian deity of children"
+    },
+    {
+      "jp": "おしょうがつ",
+      "kanji": "お正月",
+      "eng": "New Year’s"
+    },
+    {
+      "jp": "おそい",
+      "kanji": "遅い",
+      "eng": "slow; late"
+    },
+    {
+      "jp": "おもち",
+      "kanji": "",
+      "eng": "rice cake"
+    },
+    {
+      "jp": "～か～",
+      "kanji": "",
+      "eng": "or"
+    },
+    {
+      "jp": "かいさつ",
+      "kanji": "改札",
+      "eng": "gate"
+    },
+    {
+      "jp": "かいだん",
+      "kanji": "階段",
+      "eng": "stairs"
+    },
+    {
+      "jp": "かかる",
+      "kanji": "",
+      "eng": "to take (amount of time/money)"
+    },
+    {
+      "jp": "がくわり",
+      "kanji": "学割",
+      "eng": "student discount"
+    },
+    {
+      "jp": "～かげつ",
+      "kanji": "～か月",
+      "eng": "for . . . months"
+    },
+    {
+      "jp": "かさ",
+      "kanji": "",
+      "eng": "bamboo hat"
+    },
+    {
+      "jp": "かたみち",
+      "kanji": "片道",
+      "eng": "one way"
+    },
+    {
+      "jp": "かなしい",
+      "kanji": "悲しい",
+      "eng": "sad"
+    },
+    {
+      "jp": "かねもち",
+      "kanji": "金持ち",
+      "eng": "rich person"
+    },
+    {
+      "jp": "かぶせる",
+      "kanji": "",
+      "eng": "to put (a hat) on a person’s head"
+    },
+    {
+      "jp": "かんたん（な）",
+      "kanji": "簡単",
+      "eng": "easy; simple"
+    },
+    {
+      "jp": "きせつ",
+      "kanji": "季節",
+      "eng": "season"
+    },
+    {
+      "jp": "きっぷうりば",
+      "kanji": "切符売り場",
+      "eng": "ticket vending area"
+    },
+    {
+      "jp": "きめる",
+      "kanji": "決める",
+      "eng": "to decide"
+    },
+    {
+      "jp": "きゅうこう",
+      "kanji": "急行",
+      "eng": "express"
+    },
+    {
+      "jp": "ぎゅうにゅう",
+      "kanji": "牛乳",
+      "eng": "milk"
+    },
+    {
+      "jp": "ケーキ",
+      "kanji": "",
+      "eng": "cake"
+    },
+    {
+      "jp": "～ご",
+      "kanji": "～後",
+      "eng": "in . . . time; after . . ."
+    },
+    {
+      "jp": "こうつうけいアイシーカード",
+      "kanji": "交通系ICカード",
+      "eng": "rechargeable card such as Suica, Icoca, Pasmo, etc."
+    },
+    {
+      "jp": "こえ",
+      "kanji": "声",
+      "eng": "voice"
+    },
+    {
+      "jp": "このごろ",
+      "kanji": "",
+      "eng": "these days"
+    },
+    {
+      "jp": "ごろごろする",
+      "kanji": "",
+      "eng": "to chill out at home; to stay home do nothing"
+    },
+    {
+      "jp": "サッカー",
+      "kanji": "",
+      "eng": "soccer"
+    },
+    {
+      "jp": "しあわせ（な）",
+      "kanji": "幸せ",
+      "eng": "happy (lasting happiness)"
+    },
+    {
+      "jp": "じかん",
+      "kanji": "時間",
+      "eng": "time"
+    },
+    {
+      "jp": "じぞう",
+      "kanji": "",
+      "eng": "guardian deity of children"
+    },
+    {
+      "jp": "していせき",
+      "kanji": "指定席",
+      "eng": "reserved seat"
+    },
+    {
+      "jp": "じはつ",
+      "kanji": "次発",
+      "eng": "departing second"
+    },
+    {
+      "jp": "じぶん",
+      "kanji": "自分",
+      "eng": "oneself"
+    },
+    {
+      "jp": "～しゅうかん",
+      "kanji": "～週間",
+      "eng": "for . . . weeks"
+    },
+    {
+      "jp": "じゆうせき",
+      "kanji": "自由席",
+      "eng": "general admission seat"
+    },
+    {
+      "jp": "しゅうでん",
+      "kanji": "終電",
+      "eng": "last train (of the day)"
+    },
+    {
+      "jp": "しょうがつ",
+      "kanji": "正月",
+      "eng": "New Year’s"
+    },
+    {
+      "jp": "じょうしゃけん",
+      "kanji": "乗車券",
+      "eng": "(boarding) ticket"
+    },
+    {
+      "jp": "しんかんせん",
+      "kanji": "新幹線",
+      "eng": "Shinkansen;  “Bullet Train”"
+    },
+    {
+      "jp": "すし",
+      "kanji": "",
+      "eng": "sushi"
+    },
+    {
+      "jp": "すずしい",
+      "kanji": "涼しい",
+      "eng": "cool (weather)"
+    },
+    {
+      "jp": "せいかつ",
+      "kanji": "生活",
+      "eng": "life; living"
+    },
+    {
+      "jp": "せかい",
+      "kanji": "世界",
+      "eng": "world"
+    },
+    {
+      "jp": "せんぱつ",
+      "kanji": "先発",
+      "eng": "departing first"
+    },
+    {
+      "jp": "ちかてつ",
+      "kanji": "地下鉄",
+      "eng": "subway"
+    },
+    {
+      "jp": "ツアー",
+      "kanji": "",
+      "eng": "tour"
+    },
+    {
+      "jp": "つぎは～",
+      "kanji": "次は～",
+      "eng": "next (stop), . . ."
+    },
+    {
+      "jp": "つめたい",
+      "kanji": "冷たい",
+      "eng": "cold (things/people)"
+    },
+    {
+      "jp": "～で",
+      "kanji": "",
+      "eng": "by (means of transportation); with (a tool)"
+    },
+    {
+      "jp": "ていきけん",
+      "kanji": "定期券",
+      "eng": "commuter’s pass"
+    },
+    {
+      "jp": "でぐち",
+      "kanji": "出口",
+      "eng": "exit"
+    },
+    {
+      "jp": "てぶくろ",
+      "kanji": "手袋",
+      "eng": "gloves"
+    },
+    {
+      "jp": "てんぷら",
+      "kanji": "天ぷら",
+      "eng": "tempura"
+    },
+    {
+      "jp": "と",
+      "kanji": "戸",
+      "eng": "door"
+    },
+    {
+      "jp": "どうぶつえん",
+      "kanji": "動物園",
+      "eng": "zoo"
+    },
+    {
+      "jp": "どうやって",
+      "kanji": "",
+      "eng": "how; by what means"
+    },
+    {
+      "jp": "とし",
+      "kanji": "年",
+      "eng": "year"
+    },
+    {
+      "jp": "としうえ",
+      "kanji": "年上",
+      "eng": "someone older"
+    },
+    {
+      "jp": "どちら",
+      "kanji": "",
+      "eng": "which"
+    },
+    {
+      "jp": "とっきゅう",
+      "kanji": "特急",
+      "eng": "super express"
+    },
+    {
+      "jp": "どっち",
+      "kanji": "",
+      "eng": "which"
+    },
+    {
+      "jp": "どのぐらい",
+      "kanji": "",
+      "eng": "how much; how long"
+    },
+    {
+      "jp": "とまる",
+      "kanji": "泊まる",
+      "eng": "to stay (at a hotel, etc.)"
+    },
+    {
+      "jp": "とる",
+      "kanji": "",
+      "eng": "to take off"
+    },
+    {
+      "jp": "なる",
+      "kanji": "",
+      "eng": "to become"
+    },
+    {
+      "jp": "ねむい",
+      "kanji": "眠い",
+      "eng": "sleepy"
+    },
+    {
+      "jp": "～ねん",
+      "kanji": "～年",
+      "eng": ". . . years"
+    },
+    {
+      "jp": "のりかえ",
+      "kanji": "乗り換え",
+      "eng": "transfer"
+    },
+    {
+      "jp": "ばいてん",
+      "kanji": "売店",
+      "eng": "shop; stand"
+    },
+    {
+      "jp": "はやく",
+      "kanji": "早く/速く",
+      "eng": "(do something) early; fast"
+    },
+    {
+      "jp": "はる",
+      "kanji": "春",
+      "eng": "spring"
+    },
+    {
+      "jp": "～ばんせん",
+      "kanji": "～番線",
+      "eng": "track number . . ."
+    },
+    {
+      "jp": "ひこうき",
+      "kanji": "飛行機",
+      "eng": "airplane"
+    },
+    {
+      "jp": "びっくりする",
+      "kanji": "",
+      "eng": "to be surprised"
+    },
+    {
+      "jp": "びよういん",
+      "kanji": "美容院",
+      "eng": "beauty parlor"
+    },
+    {
+      "jp": "ふつう",
+      "kanji": "普通",
+      "eng": "local (train)"
+    },
+    {
+      "jp": "ふね",
+      "kanji": "船",
+      "eng": "ship; boat"
+    },
+    {
+      "jp": "～ほうめん",
+      "kanji": "～方面",
+      "eng": "serving . . . areas"
+    },
+    {
+      "jp": "ホーム",
+      "kanji": "",
+      "eng": "platform"
+    },
+    {
+      "jp": "むかしむかし",
+      "kanji": "昔々",
+      "eng": "once upon a time"
+    },
+    {
+      "jp": "もち",
+      "kanji": "",
+      "eng": "rice cake"
+    },
+    {
+      "jp": "やきゅう",
+      "kanji": "野球",
+      "eng": "baseball"
+    },
+    {
+      "jp": "やまみち",
+      "kanji": "山道",
+      "eng": "mountain road"
+    },
+    {
+      "jp": "ゆうめいじん",
+      "kanji": "有名人",
+      "eng": "celebrity"
+    },
+    {
+      "jp": "ゆき",
+      "kanji": "雪",
+      "eng": "snow"
+    },
+    {
+      "jp": "よやく",
+      "kanji": "予約",
+      "eng": "reservation"
+    },
+    {
+      "jp": "りょこうする",
+      "kanji": "旅行する",
+      "eng": "to travel"
+    },
+    {
+      "jp": "れんしゅうする",
+      "kanji": "練習する",
+      "eng": "to practice"
+    }
+  ],
+  "11": [
+    {
+      "jp": "アウトドア",
+      "kanji": "",
+      "eng": "outdoor activities"
+    },
+    {
+      "jp": "あかるい",
+      "kanji": "明るい",
+      "eng": "cheerful"
+    },
+    {
+      "jp": "いみ",
+      "kanji": "意味",
+      "eng": "meaning"
+    },
+    {
+      "jp": "うそをつく",
+      "kanji": "",
+      "eng": "to tell a lie"
+    },
+    {
+      "jp": "うちゅうひこうし",
+      "kanji": "宇宙飛行士",
+      "eng": "astronaut"
+    },
+    {
+      "jp": "おかし",
+      "kanji": "お菓子",
+      "eng": "snack; sweets"
+    },
+    {
+      "jp": "おなかがすく",
+      "kanji": "",
+      "eng": "to become hungry"
+    },
+    {
+      "jp": "おへんじ",
+      "kanji": "お返事",
+      "eng": "reply"
+    },
+    {
+      "jp": "おまつり",
+      "kanji": "お祭り",
+      "eng": "festival"
+    },
+    {
+      "jp": "おもちゃ",
+      "kanji": "",
+      "eng": "toy"
+    },
+    {
+      "jp": "おんせん",
+      "kanji": "温泉",
+      "eng": "spa; hot spring"
+    },
+    {
+      "jp": "がいこく",
+      "kanji": "外国",
+      "eng": "foreign country"
+    },
+    {
+      "jp": "かう",
+      "kanji": "飼う",
+      "eng": "to own (a pet)"
+    },
+    {
+      "jp": "かし",
+      "kanji": "菓子",
+      "eng": "snack; sweets"
+    },
+    {
+      "jp": "かしゅ",
+      "kanji": "歌手",
+      "eng": "singer"
+    },
+    {
+      "jp": "かたいいいかた",
+      "kanji": "かたい言い方",
+      "eng": "bookish expression"
+    },
+    {
+      "jp": "かっこ",
+      "kanji": "",
+      "eng": "parenthesis"
+    },
+    {
+      "jp": "かわ",
+      "kanji": "川",
+      "eng": "river"
+    },
+    {
+      "jp": "キャンプ",
+      "kanji": "",
+      "eng": "camp"
+    },
+    {
+      "jp": "きょうし",
+      "kanji": "教師",
+      "eng": "schoolteacher"
+    },
+    {
+      "jp": "きょうつうご",
+      "kanji": "共通語",
+      "eng": "common language"
+    },
+    {
+      "jp": "～ぎょうめ",
+      "kanji": "～行目",
+      "eng": "line number . . ."
+    },
+    {
+      "jp": "きんじょ",
+      "kanji": "近所",
+      "eng": "neighborhood"
+    },
+    {
+      "jp": "くだけたいいかた",
+      "kanji": "くだけた言い方",
+      "eng": "colloquial expression"
+    },
+    {
+      "jp": "けいさつかん",
+      "kanji": "警察官",
+      "eng": "police officer"
+    },
+    {
+      "jp": "けんかする",
+      "kanji": "",
+      "eng": "to have a fight; to quarrel"
+    },
+    {
+      "jp": "けんきゅうしゃ",
+      "kanji": "研究者",
+      "eng": "researcher"
+    },
+    {
+      "jp": "こたえ",
+      "kanji": "答／答え",
+      "eng": "answer"
+    },
+    {
+      "jp": "こちら",
+      "kanji": "",
+      "eng": "this person (polite)"
+    },
+    {
+      "jp": "こと",
+      "kanji": "",
+      "eng": "things; matters"
+    },
+    {
+      "jp": "これから",
+      "kanji": "",
+      "eng": "from now on"
+    },
+    {
+      "jp": "こんがっき",
+      "kanji": "今学期",
+      "eng": "this semester"
+    },
+    {
+      "jp": "さっか",
+      "kanji": "作家",
+      "eng": "writer"
+    },
+    {
+      "jp": "サボる",
+      "kanji": "",
+      "eng": "to cut (classes)"
+    },
+    {
+      "jp": "しつもん",
+      "kanji": "質問",
+      "eng": "question"
+    },
+    {
+      "jp": "しめきり",
+      "kanji": "締め切り",
+      "eng": "deadline"
+    },
+    {
+      "jp": "ジャーナリスト",
+      "kanji": "",
+      "eng": "journalist"
+    },
+    {
+      "jp": "しゃちょう",
+      "kanji": "社長",
+      "eng": "president of a company"
+    },
+    {
+      "jp": "じゅぎょう",
+      "kanji": "授業",
+      "eng": "class"
+    },
+    {
+      "jp": "しゅっしん",
+      "kanji": "出身",
+      "eng": "coming from"
+    },
+    {
+      "jp": "しょうかいする",
+      "kanji": "紹介する",
+      "eng": "to introduce"
+    },
+    {
+      "jp": "しょうぼうし",
+      "kanji": "消防士",
+      "eng": "firefighter"
+    },
+    {
+      "jp": "しょうらい",
+      "kanji": "将来",
+      "eng": "future"
+    },
+    {
+      "jp": "じんじゃ",
+      "kanji": "神社",
+      "eng": "shrine"
+    },
+    {
+      "jp": "スポーツせんしゅ",
+      "kanji": "スポーツ選手",
+      "eng": "athlete"
+    },
+    {
+      "jp": "ダイエットする",
+      "kanji": "",
+      "eng": "to go on a diet"
+    },
+    {
+      "jp": "だいとうりょう",
+      "kanji": "大統領",
+      "eng": "president of a country"
+    },
+    {
+      "jp": "～だけ",
+      "kanji": "",
+      "eng": "just . . . ; only . . ."
+    },
+    {
+      "jp": "たとえば",
+      "kanji": "例えば",
+      "eng": "for example"
+    },
+    {
+      "jp": "ちこくする",
+      "kanji": "遅刻する",
+      "eng": "to be late (for an appointment)"
+    },
+    {
+      "jp": "つかれる",
+      "kanji": "疲れる",
+      "eng": "to get tired"
+    },
+    {
+      "jp": "つり",
+      "kanji": "",
+      "eng": "fishing"
+    },
+    {
+      "jp": "ていねいないいかた",
+      "kanji": "ていねいな言い方",
+      "eng": "polite expression"
+    },
+    {
+      "jp": "～てん",
+      "kanji": "～点",
+      "eng": ". . . points"
+    },
+    {
+      "jp": "ドライブ",
+      "kanji": "",
+      "eng": "drive"
+    },
+    {
+      "jp": "ならう",
+      "kanji": "習う",
+      "eng": "to learn"
+    },
+    {
+      "jp": "のぼる",
+      "kanji": "登る",
+      "eng": "to climb"
+    },
+    {
+      "jp": "はいゆう",
+      "kanji": "俳優",
+      "eng": "actor; actress"
+    },
+    {
+      "jp": "はしる",
+      "kanji": "走る",
+      "eng": "to run"
+    },
+    {
+      "jp": "ばつ",
+      "kanji": "",
+      "eng": "× (wrong)"
+    },
+    {
+      "jp": "はつおん",
+      "kanji": "発音",
+      "eng": "pronunciation"
+    },
+    {
+      "jp": "バンド",
+      "kanji": "",
+      "eng": "band"
+    },
+    {
+      "jp": "ビール",
+      "kanji": "",
+      "eng": "beer"
+    },
+    {
+      "jp": "ひさしぶり",
+      "kanji": "久しぶり",
+      "eng": "it has been a long time"
+    },
+    {
+      "jp": "びじゅつかん",
+      "kanji": "美術館",
+      "eng": "art museum"
+    },
+    {
+      "jp": "ふたりずつ",
+      "kanji": "二人ずつ",
+      "eng": "two people each"
+    },
+    {
+      "jp": "ぶんか",
+      "kanji": "文化",
+      "eng": "culture"
+    },
+    {
+      "jp": "ぶんぽう",
+      "kanji": "文法",
+      "eng": "grammar"
+    },
+    {
+      "jp": "へいじつ",
+      "kanji": "平日",
+      "eng": "weekday"
+    },
+    {
+      "jp": "へんじ",
+      "kanji": "返事",
+      "eng": "reply"
+    },
+    {
+      "jp": "ほうげん",
+      "kanji": "方言",
+      "eng": "dialect"
+    },
+    {
+      "jp": "ほかに",
+      "kanji": "",
+      "eng": "anything else"
+    },
+    {
+      "jp": "～ぼしゅう",
+      "kanji": "～募集",
+      "eng": "looking for . . ."
+    },
+    {
+      "jp": "ホラー",
+      "kanji": "",
+      "eng": "horror"
+    },
+    {
+      "jp": "ボランティア",
+      "kanji": "",
+      "eng": "volunteer"
+    },
+    {
+      "jp": "まあまあ",
+      "kanji": "",
+      "eng": "okay; so-so"
+    },
+    {
+      "jp": "まつり",
+      "kanji": "祭り",
+      "eng": "festival"
+    },
+    {
+      "jp": "まる",
+      "kanji": "",
+      "eng": "○ (correct)"
+    },
+    {
+      "jp": "まんがか",
+      "kanji": "漫画家",
+      "eng": "cartoonist"
+    },
+    {
+      "jp": "みずうみ",
+      "kanji": "湖",
+      "eng": "lake"
+    },
+    {
+      "jp": "もっと",
+      "kanji": "",
+      "eng": "more"
+    },
+    {
+      "jp": "やめる",
+      "kanji": "",
+      "eng": "to quit"
+    },
+    {
+      "jp": "ゆめ",
+      "kanji": "夢",
+      "eng": "dream"
+    },
+    {
+      "jp": "らいがっき",
+      "kanji": "来学期",
+      "eng": "next semester"
+    },
+    {
+      "jp": "りゅうがくする",
+      "kanji": "留学する",
+      "eng": "to study abroad"
+    },
+    {
+      "jp": "ルームメイト",
+      "kanji": "",
+      "eng": "roommate"
+    },
+    {
+      "jp": "れい",
+      "kanji": "例",
+      "eng": "example"
+    },
+    {
+      "jp": "れんしゅう",
+      "kanji": "練習",
+      "eng": "exercise"
+    }
+  ],
+  "12": [
+    {
+      "jp": "あまい",
+      "kanji": "甘い",
+      "eng": "sweet"
+    },
+    {
+      "jp": "あまのがわ",
+      "kanji": "天の川",
+      "eng": "the Milky Way"
+    },
+    {
+      "jp": "ある～",
+      "kanji": "",
+      "eng": "one . . ."
+    },
+    {
+      "jp": "あるく",
+      "kanji": "歩く",
+      "eng": "to walk"
+    },
+    {
+      "jp": "いたい",
+      "kanji": "痛い",
+      "eng": "hurt; painful"
+    },
+    {
+      "jp": "いたみどめ",
+      "kanji": "痛み止め",
+      "eng": "painkiller"
+    },
+    {
+      "jp": "いちねんにいちど",
+      "kanji": "一年に一度",
+      "eng": "once a year"
+    },
+    {
+      "jp": "インフルエンザ",
+      "kanji": "",
+      "eng": "influenza"
+    },
+    {
+      "jp": "うし",
+      "kanji": "牛",
+      "eng": "cow"
+    },
+    {
+      "jp": "おおい",
+      "kanji": "多い",
+      "eng": "there are many . . ."
+    },
+    {
+      "jp": "おこる",
+      "kanji": "怒る",
+      "eng": "to get angry"
+    },
+    {
+      "jp": "おだいじに",
+      "kanji": "お大事に",
+      "eng": "Get well soon."
+    },
+    {
+      "jp": "おてあらい",
+      "kanji": "お手洗い",
+      "eng": "restroom"
+    },
+    {
+      "jp": "おとな",
+      "kanji": "大人",
+      "eng": "adult"
+    },
+    {
+      "jp": "おなじ",
+      "kanji": "同じ",
+      "eng": "same"
+    },
+    {
+      "jp": "かぜ",
+      "kanji": "風邪",
+      "eng": "cold"
+    },
+    {
+      "jp": "かぜをひく",
+      "kanji": "風邪をひく",
+      "eng": "to catch a cold"
+    },
+    {
+      "jp": "かなう",
+      "kanji": "",
+      "eng": "to be realized"
+    },
+    {
+      "jp": "かのじょ",
+      "kanji": "彼女",
+      "eng": "she; girlfriend"
+    },
+    {
+      "jp": "かふんしょう",
+      "kanji": "花粉症",
+      "eng": "hay fever"
+    },
+    {
+      "jp": "かみさま",
+      "kanji": "神様",
+      "eng": "God"
+    },
+    {
+      "jp": "かれ",
+      "kanji": "彼",
+      "eng": "he; boyfriend"
+    },
+    {
+      "jp": "かれし",
+      "kanji": "彼氏",
+      "eng": "boyfriend"
+    },
+    {
+      "jp": "かわいそう（な）",
+      "kanji": "",
+      "eng": "pitiful; feel sorry for; poor thing"
+    },
+    {
+      "jp": "がんか",
+      "kanji": "眼科",
+      "eng": "ophthalmologist"
+    },
+    {
+      "jp": "きっぷ",
+      "kanji": "切符",
+      "eng": "train ticket"
+    },
+    {
+      "jp": "きぶんがわるい",
+      "kanji": "気分が悪い",
+      "eng": "not to feel well; to feel sick"
+    },
+    {
+      "jp": "きょうみがある",
+      "kanji": "興味がある",
+      "eng": "to be interested (in)"
+    },
+    {
+      "jp": "きんちょうする",
+      "kanji": "緊張する",
+      "eng": "to get nervous"
+    },
+    {
+      "jp": "くしゃみ",
+      "kanji": "",
+      "eng": "sneeze"
+    },
+    {
+      "jp": "けが",
+      "kanji": "",
+      "eng": "injury"
+    },
+    {
+      "jp": "げか",
+      "kanji": "外科",
+      "eng": "surgeon"
+    },
+    {
+      "jp": "げり",
+      "kanji": "下痢",
+      "eng": "diarrhea"
+    },
+    {
+      "jp": "げんきがない",
+      "kanji": "元気がない",
+      "eng": "don’t look well"
+    },
+    {
+      "jp": "こうせいぶっしつ",
+      "kanji": "抗生物質",
+      "eng": "antibiotic"
+    },
+    {
+      "jp": "こっせつする",
+      "kanji": "骨折する",
+      "eng": "to break (a bone)"
+    },
+    {
+      "jp": "さんふじんか",
+      "kanji": "産婦人科",
+      "eng": "obstetrician and gynecologist"
+    },
+    {
+      "jp": "しあい",
+      "kanji": "試合",
+      "eng": "match; game"
+    },
+    {
+      "jp": "しか",
+      "kanji": "歯科",
+      "eng": "dentist"
+    },
+    {
+      "jp": "じびか",
+      "kanji": "耳鼻科",
+      "eng": "otorhinolaryngologist; ENT doctor"
+    },
+    {
+      "jp": "ジュース",
+      "kanji": "",
+      "eng": "juice"
+    },
+    {
+      "jp": "しゅじゅつ",
+      "kanji": "手術",
+      "eng": "operation"
+    },
+    {
+      "jp": "しょくご",
+      "kanji": "食後",
+      "eng": "after meals"
+    },
+    {
+      "jp": "しんぱいする",
+      "kanji": "心配する",
+      "eng": "to worry"
+    },
+    {
+      "jp": "すてき（な）",
+      "kanji": "素敵",
+      "eng": "nice"
+    },
+    {
+      "jp": "せいけいげか",
+      "kanji": "整形外科",
+      "eng": "orthopedic surgeon"
+    },
+    {
+      "jp": "せいせき",
+      "kanji": "成績",
+      "eng": "grade (on a test, etc.)"
+    },
+    {
+      "jp": "せいり",
+      "kanji": "生理",
+      "eng": "period"
+    },
+    {
+      "jp": "せき",
+      "kanji": "",
+      "eng": "cough"
+    },
+    {
+      "jp": "せきがでる",
+      "kanji": "せきが出る",
+      "eng": "to cough"
+    },
+    {
+      "jp": "せまい",
+      "kanji": "狭い",
+      "eng": "narrow; not spacious"
+    },
+    {
+      "jp": "それに",
+      "kanji": "",
+      "eng": "moreover, . . ."
+    },
+    {
+      "jp": "～だい",
+      "kanji": "～代",
+      "eng": "charge; fee"
+    },
+    {
+      "jp": "たいおんけい",
+      "kanji": "体温計",
+      "eng": "thermometer"
+    },
+    {
+      "jp": "たぶん",
+      "kanji": "多分",
+      "eng": "probably; maybe"
+    },
+    {
+      "jp": "たまご",
+      "kanji": "卵",
+      "eng": "egg"
+    },
+    {
+      "jp": "たんざく",
+      "kanji": "",
+      "eng": "strip of fancy paper"
+    },
+    {
+      "jp": "ちゅうしゃ",
+      "kanji": "注射",
+      "eng": "injection"
+    },
+    {
+      "jp": "つれてかえる",
+      "kanji": "連れて帰る",
+      "eng": "to bring (a person) back"
+    },
+    {
+      "jp": "できるだけ",
+      "kanji": "",
+      "eng": "as much as possible"
+    },
+    {
+      "jp": "てん",
+      "kanji": "天",
+      "eng": "the heavens; the sky"
+    },
+    {
+      "jp": "てんてき",
+      "kanji": "点滴",
+      "eng": "intravenous feeding"
+    },
+    {
+      "jp": "ないか",
+      "kanji": "内科",
+      "eng": "physician"
+    },
+    {
+      "jp": "なく",
+      "kanji": "泣く",
+      "eng": "to cry"
+    },
+    {
+      "jp": "なくす",
+      "kanji": "",
+      "eng": "to lose"
+    },
+    {
+      "jp": "〜など",
+      "kanji": "",
+      "eng": "and so forth"
+    },
+    {
+      "jp": "にさんにち",
+      "kanji": "二三日",
+      "eng": "for two to three days"
+    },
+    {
+      "jp": "ねがい",
+      "kanji": "願い",
+      "eng": "wish"
+    },
+    {
+      "jp": "ねつがある",
+      "kanji": "熱がある",
+      "eng": "to have a fever"
+    },
+    {
+      "jp": "のど",
+      "kanji": "喉",
+      "eng": "throat"
+    },
+    {
+      "jp": "のどがかわく",
+      "kanji": "喉が渇く",
+      "eng": "to become thirsty"
+    },
+    {
+      "jp": "はく",
+      "kanji": "吐く",
+      "eng": "to throw up"
+    },
+    {
+      "jp": "はじめて",
+      "kanji": "初めて",
+      "eng": "for the first time"
+    },
+    {
+      "jp": "はたけ",
+      "kanji": "畑",
+      "eng": "farm"
+    },
+    {
+      "jp": "はたをおる",
+      "kanji": "はたを織る",
+      "eng": "to weave"
+    },
+    {
+      "jp": "はっしん",
+      "kanji": "発疹",
+      "eng": "rash"
+    },
+    {
+      "jp": "はなみず",
+      "kanji": "鼻水",
+      "eng": "runny nose"
+    },
+    {
+      "jp": "はらう",
+      "kanji": "払う",
+      "eng": "to pay"
+    },
+    {
+      "jp": "ひとびと",
+      "kanji": "人々",
+      "eng": "people"
+    },
+    {
+      "jp": "ひふか",
+      "kanji": "皮膚科",
+      "eng": "dermatologist"
+    },
+    {
+      "jp": "ひろい",
+      "kanji": "広い",
+      "eng": "wide; spacious"
+    },
+    {
+      "jp": "ふく",
+      "kanji": "服",
+      "eng": "clothes"
+    },
+    {
+      "jp": "ふつかよい",
+      "kanji": "二日酔い",
+      "eng": "hangover"
+    },
+    {
+      "jp": "プレゼント",
+      "kanji": "",
+      "eng": "present"
+    },
+    {
+      "jp": "べんぴ",
+      "kanji": "便秘",
+      "eng": "constipation"
+    },
+    {
+      "jp": "ホームシック",
+      "kanji": "",
+      "eng": "homesickness"
+    },
+    {
+      "jp": "ほけんしょう",
+      "kanji": "保険証",
+      "eng": "health insurance certificate"
+    },
+    {
+      "jp": "まじめ（な）",
+      "kanji": "",
+      "eng": "serious; sober; diligent"
+    },
+    {
+      "jp": "～までに",
+      "kanji": "",
+      "eng": "by (time/date)"
+    },
+    {
+      "jp": "むこう",
+      "kanji": "向こう",
+      "eng": "the other side; over there"
+    },
+    {
+      "jp": "むしば",
+      "kanji": "虫歯",
+      "eng": "bad tooth"
+    },
+    {
+      "jp": "むすめ",
+      "kanji": "娘",
+      "eng": "daughter"
+    },
+    {
+      "jp": "めまいがする",
+      "kanji": "",
+      "eng": "to feel dizzy"
+    },
+    {
+      "jp": "もうすぐ",
+      "kanji": "",
+      "eng": "very soon; in a few moments/days"
+    },
+    {
+      "jp": "もの",
+      "kanji": "物",
+      "eng": "thing (concrete object)"
+    },
+    {
+      "jp": "やけどをする",
+      "kanji": "",
+      "eng": "to burn oneself"
+    },
+    {
+      "jp": "ようじ",
+      "kanji": "用事",
+      "eng": "business to take care of"
+    },
+    {
+      "jp": "レントゲン",
+      "kanji": "",
+      "eng": "X-ray"
+    },
+    {
+      "jp": "わかれる",
+      "kanji": "別れる",
+      "eng": "to break up; to separate"
+    },
+    {
+      "jp": "わたしたち",
+      "kanji": "私たち",
+      "eng": "we"
+    },
+    {
+      "jp": "わるい",
+      "kanji": "悪い",
+      "eng": "bad"
+    }
+  ],
+  "13": [
+    {
+      "jp": "あずけいれ",
+      "kanji": "預け入れ",
+      "eng": "deposit"
+    },
+    {
+      "jp": "アナウンス",
+      "kanji": "",
+      "eng": "announcement"
+    },
+    {
+      "jp": "アパート",
+      "kanji": "",
+      "eng": "apartment; smaller apartment building"
+    },
+    {
+      "jp": "アプリ",
+      "kanji": "",
+      "eng": "application"
+    },
+    {
+      "jp": "あむ",
+      "kanji": "編む",
+      "eng": "to knit"
+    },
+    {
+      "jp": "あんしょうばんごう",
+      "kanji": "暗証番号",
+      "eng": "personal identification number"
+    },
+    {
+      "jp": "いちにち",
+      "kanji": "一日",
+      "eng": "one day"
+    },
+    {
+      "jp": "いつか",
+      "kanji": "五日",
+      "eng": "five days"
+    },
+    {
+      "jp": "いっしょうにいちど",
+      "kanji": "一生に一度",
+      "eng": "once in a lifetime"
+    },
+    {
+      "jp": "うれしい",
+      "kanji": "",
+      "eng": "glad"
+    },
+    {
+      "jp": "おあずけいれ",
+      "kanji": "お預け入れ",
+      "eng": "deposit"
+    },
+    {
+      "jp": "おくれる",
+      "kanji": "遅れる",
+      "eng": "to become late"
+    },
+    {
+      "jp": "おひきだし",
+      "kanji": "お引き出し",
+      "eng": "withdrawal"
+    },
+    {
+      "jp": "おふりこみ",
+      "kanji": "お振込",
+      "eng": "bank transfer"
+    },
+    {
+      "jp": "～かい",
+      "kanji": "～回",
+      "eng": ". . . times"
+    },
+    {
+      "jp": "がいこくご",
+      "kanji": "外国語",
+      "eng": "foreign language"
+    },
+    {
+      "jp": "がっき",
+      "kanji": "楽器",
+      "eng": "musical instrument"
+    },
+    {
+      "jp": "かめ",
+      "kanji": "",
+      "eng": "turtle"
+    },
+    {
+      "jp": "からい",
+      "kanji": "辛い",
+      "eng": "hot and spicy; salty"
+    },
+    {
+      "jp": "からだ",
+      "kanji": "体",
+      "eng": "body"
+    },
+    {
+      "jp": "からて",
+      "kanji": "空手",
+      "eng": "karate"
+    },
+    {
+      "jp": "カレー",
+      "kanji": "",
+      "eng": "curry"
+    },
+    {
+      "jp": "かんどうする",
+      "kanji": "感動する",
+      "eng": "to be moved/touched (by . . . )"
+    },
+    {
+      "jp": "がんばる",
+      "kanji": "頑張る",
+      "eng": "to do one’s best; to try hard"
+    },
+    {
+      "jp": "きびしい",
+      "kanji": "厳しい",
+      "eng": "strict"
+    },
+    {
+      "jp": "キャッシュカード",
+      "kanji": "",
+      "eng": "bank card"
+    },
+    {
+      "jp": "～キロ",
+      "kanji": "",
+      "eng": ". . . kilometers; . . . kilograms"
+    },
+    {
+      "jp": "きんがく",
+      "kanji": "金額",
+      "eng": "amount"
+    },
+    {
+      "jp": "くうこう",
+      "kanji": "空港",
+      "eng": "airport"
+    },
+    {
+      "jp": "クレジットカード",
+      "kanji": "",
+      "eng": "credit card"
+    },
+    {
+      "jp": "けいけん",
+      "kanji": "経験",
+      "eng": "experience"
+    },
+    {
+      "jp": "げんきん",
+      "kanji": "現金",
+      "eng": "cash"
+    },
+    {
+      "jp": "こうこく",
+      "kanji": "広告",
+      "eng": "advertisement"
+    },
+    {
+      "jp": "こうざ",
+      "kanji": "口座",
+      "eng": "account"
+    },
+    {
+      "jp": "こうちゃ",
+      "kanji": "紅茶",
+      "eng": "black tea"
+    },
+    {
+      "jp": "ここのか",
+      "kanji": "九日",
+      "eng": "nine days"
+    },
+    {
+      "jp": "ことば",
+      "kanji": "言葉",
+      "eng": "language"
+    },
+    {
+      "jp": "ゴルフ",
+      "kanji": "",
+      "eng": "golf"
+    },
+    {
+      "jp": "ざだんかい",
+      "kanji": "座談会",
+      "eng": "round-table discussion"
+    },
+    {
+      "jp": "ざんだかしょうかい",
+      "kanji": "残高照会",
+      "eng": "balance inquiry"
+    },
+    {
+      "jp": "じかんどおり",
+      "kanji": "時間通り",
+      "eng": "on time"
+    },
+    {
+      "jp": "じどう",
+      "kanji": "自動",
+      "eng": "automatic"
+    },
+    {
+      "jp": "すごい",
+      "kanji": "",
+      "eng": "incredible; awesome"
+    },
+    {
+      "jp": "すっぽん",
+      "kanji": "",
+      "eng": "snapping turtle; terrapin"
+    },
+    {
+      "jp": "セーター",
+      "kanji": "",
+      "eng": "sweater"
+    },
+    {
+      "jp": "ぜんぶ",
+      "kanji": "全部",
+      "eng": "all"
+    },
+    {
+      "jp": "ぞう",
+      "kanji": "象",
+      "eng": "elephant"
+    },
+    {
+      "jp": "タクシー",
+      "kanji": "",
+      "eng": "taxi"
+    },
+    {
+      "jp": "だめ（な）",
+      "kanji": "",
+      "eng": "no good"
+    },
+    {
+      "jp": "ちかい",
+      "kanji": "近い",
+      "eng": "close; near"
+    },
+    {
+      "jp": "チップ",
+      "kanji": "",
+      "eng": "tip"
+    },
+    {
+      "jp": "つうちょう",
+      "kanji": "通帳",
+      "eng": "passbook"
+    },
+    {
+      "jp": "つうちょうきにゅう",
+      "kanji": "通帳記入",
+      "eng": "passbook update"
+    },
+    {
+      "jp": "つく",
+      "kanji": "着く",
+      "eng": "to arrive"
+    },
+    {
+      "jp": "デザート",
+      "kanji": "",
+      "eng": "desert"
+    },
+    {
+      "jp": "てすうりょう",
+      "kanji": "手数料",
+      "eng": "commission"
+    },
+    {
+      "jp": "とおか",
+      "kanji": "十日",
+      "eng": "ten days"
+    },
+    {
+      "jp": "とくに",
+      "kanji": "特に",
+      "eng": "especially"
+    },
+    {
+      "jp": "～ともうします",
+      "kanji": "～と申します",
+      "eng": "my name is . . ."
+    },
+    {
+      "jp": "とり",
+      "kanji": "鳥",
+      "eng": "bird; poultry"
+    },
+    {
+      "jp": "なのか",
+      "kanji": "七日",
+      "eng": "seven days"
+    },
+    {
+      "jp": "なべ",
+      "kanji": "",
+      "eng": "pot"
+    },
+    {
+      "jp": "なんでも",
+      "kanji": "",
+      "eng": "anything; everything"
+    },
+    {
+      "jp": "ニヤニヤする",
+      "kanji": "",
+      "eng": "to grin"
+    },
+    {
+      "jp": "バイク",
+      "kanji": "",
+      "eng": "motorcycle"
+    },
+    {
+      "jp": "ひきだし",
+      "kanji": "引き出し",
+      "eng": "withdrawal"
+    },
+    {
+      "jp": "ふあん（な）",
+      "kanji": "不安",
+      "eng": "anxious; worried"
+    },
+    {
+      "jp": "ふつか",
+      "kanji": "二日",
+      "eng": "two days"
+    },
+    {
+      "jp": "ぶっか",
+      "kanji": "物価",
+      "eng": "consumer prices"
+    },
+    {
+      "jp": "ふりこみ",
+      "kanji": "振込",
+      "eng": "bank transfer"
+    },
+    {
+      "jp": "プリン",
+      "kanji": "",
+      "eng": "pudding"
+    },
+    {
+      "jp": "ぼしゅう",
+      "kanji": "募集",
+      "eng": "recruitment"
+    },
+    {
+      "jp": "マンション",
+      "kanji": "",
+      "eng": "larger apartment building; condominium"
+    },
+    {
+      "jp": "みがく",
+      "kanji": "磨く",
+      "eng": "to brush (teeth); to polish"
+    },
+    {
+      "jp": "みずぎ",
+      "kanji": "水着",
+      "eng": "swimwear"
+    },
+    {
+      "jp": "みっか",
+      "kanji": "三日",
+      "eng": "three days"
+    },
+    {
+      "jp": "むいか",
+      "kanji": "六日",
+      "eng": "six days"
+    },
+    {
+      "jp": "めずらしい",
+      "kanji": "",
+      "eng": "rare"
+    },
+    {
+      "jp": "もう～ない",
+      "kanji": "",
+      "eng": "not any longer"
+    },
+    {
+      "jp": "やくそく",
+      "kanji": "約束",
+      "eng": "promise; appointment"
+    },
+    {
+      "jp": "やくそくをまもる",
+      "kanji": "約束を守る",
+      "eng": "to keep a promise"
+    },
+    {
+      "jp": "やっぱり",
+      "kanji": "",
+      "eng": "after all"
+    },
+    {
+      "jp": "ようか",
+      "kanji": "八日",
+      "eng": "eight days"
+    },
+    {
+      "jp": "よきん",
+      "kanji": "預金",
+      "eng": "savings"
+    },
+    {
+      "jp": "よっか",
+      "kanji": "四日",
+      "eng": "four days"
+    },
+    {
+      "jp": "りょうがえ",
+      "kanji": "両替",
+      "eng": "money exchange"
+    },
+    {
+      "jp": "わたくし",
+      "kanji": "私",
+      "eng": "I (formal)"
+    }
+  ],
+  "14": [
+    {
+      "jp": "あいす",
+      "kanji": "愛す",
+      "eng": "to love"
+    },
+    {
+      "jp": "あきらめる",
+      "kanji": "",
+      "eng": "to give up"
+    },
+    {
+      "jp": "あげる",
+      "kanji": "",
+      "eng": "to give (to others)"
+    },
+    {
+      "jp": "アドバイス",
+      "kanji": "",
+      "eng": "advice"
+    },
+    {
+      "jp": "えんぴつ",
+      "kanji": "鉛筆",
+      "eng": "pencil"
+    },
+    {
+      "jp": "おおやさん",
+      "kanji": "大家さん",
+      "eng": "landlord; landlady"
+    },
+    {
+      "jp": "おかえし",
+      "kanji": "お返し",
+      "eng": "return (as a token of gratitude)"
+    },
+    {
+      "jp": "おくさん",
+      "kanji": "奥さん",
+      "eng": "(your/someone’s) wife"
+    },
+    {
+      "jp": "おくる",
+      "kanji": "送る",
+      "eng": "to send"
+    },
+    {
+      "jp": "おさら",
+      "kanji": "お皿",
+      "eng": "plate; dish"
+    },
+    {
+      "jp": "おじさん",
+      "kanji": "",
+      "eng": "uncle; middle-aged man"
+    },
+    {
+      "jp": "おしゃれ（な）",
+      "kanji": "",
+      "eng": "fashionable; stylish"
+    },
+    {
+      "jp": "おばさん",
+      "kanji": "",
+      "eng": "aunt; middle-aged woman"
+    },
+    {
+      "jp": "きゅうに",
+      "kanji": "急に",
+      "eng": "suddenly"
+    },
+    {
+      "jp": "クリスマス",
+      "kanji": "",
+      "eng": "Christmas"
+    },
+    {
+      "jp": "くれる",
+      "kanji": "",
+      "eng": "to give (me)"
+    },
+    {
+      "jp": "～くん",
+      "kanji": "～君",
+      "eng": "Mr./Ms. . . . (casual)"
+    },
+    {
+      "jp": "けしょうひん",
+      "kanji": "化粧品",
+      "eng": "cosmetics"
+    },
+    {
+      "jp": "けち（な）",
+      "kanji": "",
+      "eng": "stingy; cheap"
+    },
+    {
+      "jp": "～こ",
+      "kanji": "～個",
+      "eng": "[generic counter for smaller items]"
+    },
+    {
+      "jp": "ごしゅじん",
+      "kanji": "ご主人",
+      "eng": "(your/someone’s) husband"
+    },
+    {
+      "jp": "こんな～",
+      "kanji": "",
+      "eng": ". . . like this; this kind of . . ."
+    },
+    {
+      "jp": "さあ",
+      "kanji": "",
+      "eng": "I am not sure . . ."
+    },
+    {
+      "jp": "～さつ",
+      "kanji": "～冊",
+      "eng": "[counter for bound volumes]"
+    },
+    {
+      "jp": "さら",
+      "kanji": "皿",
+      "eng": "plate; dish"
+    },
+    {
+      "jp": "じだい",
+      "kanji": "時代",
+      "eng": "age; era"
+    },
+    {
+      "jp": "シャツ",
+      "kanji": "",
+      "eng": "shirt"
+    },
+    {
+      "jp": "しゅっちょう",
+      "kanji": "出張",
+      "eng": "business trip"
+    },
+    {
+      "jp": "せんぱい",
+      "kanji": "先輩",
+      "eng": "senior member of a group"
+    },
+    {
+      "jp": "そうだんする",
+      "kanji": "相談する",
+      "eng": "to consult"
+    },
+    {
+      "jp": "～だい",
+      "kanji": "～台",
+      "eng": "[counter for equipment]"
+    },
+    {
+      "jp": "～たち",
+      "kanji": "",
+      "eng": "[makes a noun plural]"
+    },
+    {
+      "jp": "ちちおや",
+      "kanji": "父親",
+      "eng": "father"
+    },
+    {
+      "jp": "ちゅういする",
+      "kanji": "注意する",
+      "eng": "to give warning; to watch out"
+    },
+    {
+      "jp": "ちょうど",
+      "kanji": "",
+      "eng": "exactly"
+    },
+    {
+      "jp": "チョコレート",
+      "kanji": "",
+      "eng": "chocolate"
+    },
+    {
+      "jp": "つきあう",
+      "kanji": "付き合う",
+      "eng": "to date (someone); to keep company"
+    },
+    {
+      "jp": "できる",
+      "kanji": "",
+      "eng": "to come into existence; to be made"
+    },
+    {
+      "jp": "どうしたらいい",
+      "kanji": "",
+      "eng": "what should one do"
+    },
+    {
+      "jp": "トレーナー",
+      "kanji": "",
+      "eng": "sweatshirt"
+    },
+    {
+      "jp": "なやみ",
+      "kanji": "悩み",
+      "eng": "worry"
+    },
+    {
+      "jp": "にあう",
+      "kanji": "似合う",
+      "eng": "to look good (on somebody)"
+    },
+    {
+      "jp": "ぬいぐるみ",
+      "kanji": "",
+      "eng": "stuffed animal (e.g., teddy bear)"
+    },
+    {
+      "jp": "ネクタイ",
+      "kanji": "",
+      "eng": "necktie"
+    },
+    {
+      "jp": "～ねんかん",
+      "kanji": "～年間",
+      "eng": "for . . . years"
+    },
+    {
+      "jp": "ばあい",
+      "kanji": "場合",
+      "eng": "case"
+    },
+    {
+      "jp": "パートナー",
+      "kanji": "",
+      "eng": "partner"
+    },
+    {
+      "jp": "バレンタインデー",
+      "kanji": "",
+      "eng": "Valentine’s Day"
+    },
+    {
+      "jp": "～ひき",
+      "kanji": "～匹",
+      "eng": "[counter for smaller animals]"
+    },
+    {
+      "jp": "プロポーズする",
+      "kanji": "",
+      "eng": "to propose marriage"
+    },
+    {
+      "jp": "ほしい",
+      "kanji": "欲しい",
+      "eng": "to want"
+    },
+    {
+      "jp": "ホワイトデー",
+      "kanji": "",
+      "eng": "“White Day” (yet another gift-giving day)"
+    },
+    {
+      "jp": "～ほん",
+      "kanji": "～本",
+      "eng": "[counter for long objects]"
+    },
+    {
+      "jp": "ほんとうに",
+      "kanji": "本当に",
+      "eng": "really"
+    },
+    {
+      "jp": "マフラー",
+      "kanji": "",
+      "eng": "winter scarf"
+    },
+    {
+      "jp": "まんが",
+      "kanji": "漫画",
+      "eng": "comic book"
+    },
+    {
+      "jp": "ゆびわ",
+      "kanji": "指輪",
+      "eng": "ring"
+    },
+    {
+      "jp": "よく",
+      "kanji": "",
+      "eng": "well"
+    },
+    {
+      "jp": "ラジオ",
+      "kanji": "",
+      "eng": "radio"
+    },
+    {
+      "jp": "りょうしん",
+      "kanji": "両親",
+      "eng": "parents"
+    },
+    {
+      "jp": "りれきしょ",
+      "kanji": "履歴書",
+      "eng": "résumé"
+    }
+  ],
+  "15": [
+    {
+      "jp": "いちにちじゅう",
+      "kanji": "一日中",
+      "eng": "all day long"
+    },
+    {
+      "jp": "いちにちめ",
+      "kanji": "一日目",
+      "eng": "first day"
+    },
+    {
+      "jp": "いちねんじゅう",
+      "kanji": "一年中",
+      "eng": "all year"
+    },
+    {
+      "jp": "いっぱくにしょくつき",
+      "kanji": "一泊二食付き",
+      "eng": "one night with two meals"
+    },
+    {
+      "jp": "インターネット",
+      "kanji": "",
+      "eng": "internet"
+    },
+    {
+      "jp": "うまれる",
+      "kanji": "生まれる",
+      "eng": "to be born"
+    },
+    {
+      "jp": "え",
+      "kanji": "絵",
+      "eng": "painting; picture; drawing"
+    },
+    {
+      "jp": "えいがかん",
+      "kanji": "映画館",
+      "eng": "movie theater"
+    },
+    {
+      "jp": "おとされる",
+      "kanji": "落とされる",
+      "eng": "to be dropped"
+    },
+    {
+      "jp": "おろす",
+      "kanji": "下ろす",
+      "eng": "to withdraw (money)"
+    },
+    {
+      "jp": "がいこくじん",
+      "kanji": "外国人",
+      "eng": "foreigner"
+    },
+    {
+      "jp": "かく",
+      "kanji": "描く",
+      "eng": "to draw; to paint"
+    },
+    {
+      "jp": "かぐ",
+      "kanji": "家具",
+      "eng": "furniture"
+    },
+    {
+      "jp": "かつどう",
+      "kanji": "活動",
+      "eng": "activity"
+    },
+    {
+      "jp": "かんこうする",
+      "kanji": "観光する",
+      "eng": "to do sightseeing"
+    },
+    {
+      "jp": "きつえん",
+      "kanji": "喫煙",
+      "eng": "smoking"
+    },
+    {
+      "jp": "きょうしつ",
+      "kanji": "教室",
+      "eng": "classroom"
+    },
+    {
+      "jp": "きをつける",
+      "kanji": "気をつける",
+      "eng": "to be cautious/careful"
+    },
+    {
+      "jp": "きんえん",
+      "kanji": "禁煙",
+      "eng": "non-smoking"
+    },
+    {
+      "jp": "くじら",
+      "kanji": "",
+      "eng": "whale"
+    },
+    {
+      "jp": "けしき",
+      "kanji": "景色",
+      "eng": "scenery"
+    },
+    {
+      "jp": "けっこんしき",
+      "kanji": "結婚式",
+      "eng": "wedding"
+    },
+    {
+      "jp": "～けど",
+      "kanji": "",
+      "eng": ". . . , but; . . . , so"
+    },
+    {
+      "jp": "げんばく",
+      "kanji": "原爆",
+      "eng": "atomic bomb"
+    },
+    {
+      "jp": "こうよう",
+      "kanji": "紅葉",
+      "eng": "autumn leaves/colors"
+    },
+    {
+      "jp": "こむ",
+      "kanji": "混む",
+      "eng": "to get crowded"
+    },
+    {
+      "jp": "こんでいる",
+      "kanji": "混んでいる",
+      "eng": "to be crowded"
+    },
+    {
+      "jp": "さいきん",
+      "kanji": "最近",
+      "eng": "recently"
+    },
+    {
+      "jp": "さがす",
+      "kanji": "探す",
+      "eng": "to look for"
+    },
+    {
+      "jp": "さそう",
+      "kanji": "誘う",
+      "eng": "to invite"
+    },
+    {
+      "jp": "さんかする",
+      "kanji": "参加する",
+      "eng": "to participate"
+    },
+    {
+      "jp": "しか",
+      "kanji": "鹿",
+      "eng": "deer"
+    },
+    {
+      "jp": "じしん",
+      "kanji": "地震",
+      "eng": "earthquake"
+    },
+    {
+      "jp": "しぜん",
+      "kanji": "自然",
+      "eng": "nature"
+    },
+    {
+      "jp": "しま",
+      "kanji": "島",
+      "eng": "island"
+    },
+    {
+      "jp": "ジャケット",
+      "kanji": "",
+      "eng": "jacket"
+    },
+    {
+      "jp": "しゃべる",
+      "kanji": "",
+      "eng": "to chat"
+    },
+    {
+      "jp": "しゅうかん",
+      "kanji": "習慣",
+      "eng": "custom"
+    },
+    {
+      "jp": "しゅじん",
+      "kanji": "主人",
+      "eng": "head of a familiy"
+    },
+    {
+      "jp": "しらべる",
+      "kanji": "調べる",
+      "eng": "to look into (a matter)"
+    },
+    {
+      "jp": "シングル",
+      "kanji": "",
+      "eng": "single room"
+    },
+    {
+      "jp": "スクランブルこうさてん",
+      "kanji": "スクランブル交差点",
+      "eng": "scramble crossing"
+    },
+    {
+      "jp": "する",
+      "kanji": "",
+      "eng": "to decide on (an item)"
+    },
+    {
+      "jp": "ぜいきん",
+      "kanji": "税金",
+      "eng": "tax"
+    },
+    {
+      "jp": "そつぎょうしき",
+      "kanji": "卒業式",
+      "eng": "graduation ceremony"
+    },
+    {
+      "jp": "そつぎょうする",
+      "kanji": "卒業する",
+      "eng": "to graduate (from . . . )"
+    },
+    {
+      "jp": "そば",
+      "kanji": "",
+      "eng": "soba; Japanese buckwheat noodles"
+    },
+    {
+      "jp": "だいよくじょう",
+      "kanji": "大浴場",
+      "eng": "large spa"
+    },
+    {
+      "jp": "たけ",
+      "kanji": "竹",
+      "eng": "bamboo"
+    },
+    {
+      "jp": "たてもの",
+      "kanji": "建物",
+      "eng": "building"
+    },
+    {
+      "jp": "たのしみです",
+      "kanji": "楽しみです",
+      "eng": "cannot wait; to look forward to it"
+    },
+    {
+      "jp": "たのしむ",
+      "kanji": "楽しむ",
+      "eng": "to enjoy"
+    },
+    {
+      "jp": "ダブル",
+      "kanji": "",
+      "eng": "double room"
+    },
+    {
+      "jp": "チェックアウト（する）",
+      "kanji": "",
+      "eng": "checking out"
+    },
+    {
+      "jp": "チェックイン（する）",
+      "kanji": "",
+      "eng": "checking in"
+    },
+    {
+      "jp": "ちか",
+      "kanji": "地下",
+      "eng": "underground"
+    },
+    {
+      "jp": "ちず",
+      "kanji": "地図",
+      "eng": "map"
+    },
+    {
+      "jp": "ちょうしょくつき",
+      "kanji": "朝食付き",
+      "eng": "with breakfast"
+    },
+    {
+      "jp": "ツイン",
+      "kanji": "",
+      "eng": "twin room"
+    },
+    {
+      "jp": "でんち",
+      "kanji": "電池",
+      "eng": "battery"
+    },
+    {
+      "jp": "とおる",
+      "kanji": "通る",
+      "eng": "to go through; to pass"
+    },
+    {
+      "jp": "トロッコれっしゃ",
+      "kanji": "トロッコ列車",
+      "eng": "small train usually for tourists"
+    },
+    {
+      "jp": "にわ",
+      "kanji": "庭",
+      "eng": "garden"
+    },
+    {
+      "jp": "のこす",
+      "kanji": "残す",
+      "eng": "to leave; to preserve"
+    },
+    {
+      "jp": "～はく",
+      "kanji": "～泊",
+      "eng": ". . . nights"
+    },
+    {
+      "jp": "ばしょ",
+      "kanji": "場所",
+      "eng": "place"
+    },
+    {
+      "jp": "はっぴょうする",
+      "kanji": "発表する",
+      "eng": "to make a presentation; to make public"
+    },
+    {
+      "jp": "ひ",
+      "kanji": "日",
+      "eng": "day"
+    },
+    {
+      "jp": "ファッション",
+      "kanji": "",
+      "eng": "fashion"
+    },
+    {
+      "jp": "プール",
+      "kanji": "",
+      "eng": "swimming pool"
+    },
+    {
+      "jp": "フロント",
+      "kanji": "",
+      "eng": "receptionist; front desk"
+    },
+    {
+      "jp": "へいわ",
+      "kanji": "平和",
+      "eng": "peace"
+    },
+    {
+      "jp": "へいわきねんしりょうかん",
+      "kanji": "平和記念資料館",
+      "eng": "Peace Memorial Museum"
+    },
+    {
+      "jp": "ペット",
+      "kanji": "",
+      "eng": "pet"
+    },
+    {
+      "jp": "ほけん",
+      "kanji": "保険",
+      "eng": "insurance"
+    },
+    {
+      "jp": "ほけんにはいる",
+      "kanji": "保険に入る",
+      "eng": "to buy insurance"
+    },
+    {
+      "jp": "まちあわせをする",
+      "kanji": "待ち合わせをする",
+      "eng": "to meet up"
+    },
+    {
+      "jp": "みえる",
+      "kanji": "見える",
+      "eng": "to be visible"
+    },
+    {
+      "jp": "～め",
+      "kanji": "～目",
+      "eng": "=-th"
+    },
+    {
+      "jp": "～めい",
+      "kanji": "～名",
+      "eng": ". . . person(s)"
+    },
+    {
+      "jp": "もういちど",
+      "kanji": "もう一度",
+      "eng": "one more time"
+    },
+    {
+      "jp": "よてい",
+      "kanji": "予定",
+      "eng": "schedule; plan"
+    },
+    {
+      "jp": "よやくする",
+      "kanji": "予約する",
+      "eng": "to reserve"
+    },
+    {
+      "jp": "りょかん",
+      "kanji": "旅館",
+      "eng": "Japanese inn"
+    },
+    {
+      "jp": "わかもの",
+      "kanji": "若者",
+      "eng": "young people"
+    },
+    {
+      "jp": "わりびきけん",
+      "kanji": "割引券",
+      "eng": "discount coupon"
+    }
+  ],
+  "16": [
+    {
+      "jp": "アイロンをかける",
+      "kanji": "",
+      "eng": "to iron (clothes)"
+    },
+    {
+      "jp": "あさねぼうする",
+      "kanji": "朝寝坊する",
+      "eng": "to oversleep"
+    },
+    {
+      "jp": "あつめる",
+      "kanji": "集める",
+      "eng": "to collect"
+    },
+    {
+      "jp": "～いがい",
+      "kanji": "～以外",
+      "eng": "other than . . ."
+    },
+    {
+      "jp": "いれる",
+      "kanji": "入れる",
+      "eng": "to put (something) in"
+    },
+    {
+      "jp": "うつす",
+      "kanji": "写す",
+      "eng": "to copy"
+    },
+    {
+      "jp": "ええと",
+      "kanji": "",
+      "eng": "well . . . ; let me see . . ."
+    },
+    {
+      "jp": "えきいん（さん）",
+      "kanji": "駅員（さん）",
+      "eng": "station attendant"
+    },
+    {
+      "jp": "おおきさ",
+      "kanji": "大きさ",
+      "eng": "size"
+    },
+    {
+      "jp": "おこす",
+      "kanji": "起こす",
+      "eng": "to wake (someone) up"
+    },
+    {
+      "jp": "おごる",
+      "kanji": "",
+      "eng": "to treat (someone) to a meal"
+    },
+    {
+      "jp": "おちこむ",
+      "kanji": "落ち込む",
+      "eng": "to get depressed"
+    },
+    {
+      "jp": "おや",
+      "kanji": "親",
+      "eng": "parent"
+    },
+    {
+      "jp": "かける（アイロンを）",
+      "kanji": "",
+      "eng": "to iron (clothes)"
+    },
+    {
+      "jp": "かす",
+      "kanji": "貸す",
+      "eng": "to lend"
+    },
+    {
+      "jp": "きたない",
+      "kanji": "汚い",
+      "eng": "dirty"
+    },
+    {
+      "jp": "きまつしけん",
+      "kanji": "期末試験",
+      "eng": "final examination"
+    },
+    {
+      "jp": "きょうじゅうに",
+      "kanji": "今日中に",
+      "eng": "by the end of today"
+    },
+    {
+      "jp": "けんきゅう",
+      "kanji": "研究",
+      "eng": "research"
+    },
+    {
+      "jp": "このぐらい",
+      "kanji": "",
+      "eng": "about this much"
+    },
+    {
+      "jp": "こまる",
+      "kanji": "困る",
+      "eng": "to have difficulty"
+    },
+    {
+      "jp": "ごみ",
+      "kanji": "",
+      "eng": "garbage"
+    },
+    {
+      "jp": "ごめん",
+      "kanji": "",
+      "eng": "I’m sorry. (casual)"
+    },
+    {
+      "jp": "さとう",
+      "kanji": "砂糖",
+      "eng": "sugar"
+    },
+    {
+      "jp": "じつは",
+      "kanji": "実は",
+      "eng": "actually; in fact"
+    },
+    {
+      "jp": "しつれいします",
+      "kanji": "失礼します",
+      "eng": "Excuse me.; Sorry to interrupt you."
+    },
+    {
+      "jp": "じぶんで",
+      "kanji": "自分で",
+      "eng": "(do something) by oneself"
+    },
+    {
+      "jp": "じゅぎょうちゅうに",
+      "kanji": "授業中に",
+      "eng": "in class; during the class"
+    },
+    {
+      "jp": "しょうがくきん",
+      "kanji": "奨学金",
+      "eng": "scholarship"
+    },
+    {
+      "jp": "しょうがくせい",
+      "kanji": "小学生",
+      "eng": "elementary school students"
+    },
+    {
+      "jp": "しんせき",
+      "kanji": "親せき",
+      "eng": "relatives"
+    },
+    {
+      "jp": "すいせんじょう",
+      "kanji": "推薦状",
+      "eng": "letter of recommendation"
+    },
+    {
+      "jp": "すると",
+      "kanji": "",
+      "eng": ". . . Then . . ."
+    },
+    {
+      "jp": "せつめいする",
+      "kanji": "説明する",
+      "eng": "to explain"
+    },
+    {
+      "jp": "そら",
+      "kanji": "空",
+      "eng": "sky"
+    },
+    {
+      "jp": "そんな～",
+      "kanji": "",
+      "eng": "such . . . ; that kind of . . ."
+    },
+    {
+      "jp": "だいがくいん",
+      "kanji": "大学院",
+      "eng": "graduate school"
+    },
+    {
+      "jp": "たいふう",
+      "kanji": "台風",
+      "eng": "typhoon"
+    },
+    {
+      "jp": "だす",
+      "kanji": "出す",
+      "eng": "to take (something) out; to hand in (something)"
+    },
+    {
+      "jp": "たすける",
+      "kanji": "助ける",
+      "eng": "to help; to rescue"
+    },
+    {
+      "jp": "ちがう",
+      "kanji": "違う",
+      "eng": "to be different; to be wrong"
+    },
+    {
+      "jp": "つづく",
+      "kanji": "続く",
+      "eng": "to continue"
+    },
+    {
+      "jp": "つれていく",
+      "kanji": "連れていく",
+      "eng": "to take (someone) to (a place)"
+    },
+    {
+      "jp": "どうぐ",
+      "kanji": "道具",
+      "eng": "tool"
+    },
+    {
+      "jp": "どこでも",
+      "kanji": "",
+      "eng": "anywhere"
+    },
+    {
+      "jp": "とぶ",
+      "kanji": "飛ぶ",
+      "eng": "to fly"
+    },
+    {
+      "jp": "なおす",
+      "kanji": "直す",
+      "eng": "to correct; to fix"
+    },
+    {
+      "jp": "～のようなもの",
+      "kanji": "",
+      "eng": "something like . . ."
+    },
+    {
+      "jp": "のりおくれる",
+      "kanji": "乗り遅れる",
+      "eng": "to miss (a train, bus, etc.)"
+    },
+    {
+      "jp": "ばんぐみ",
+      "kanji": "番組",
+      "eng": "broadcast program"
+    },
+    {
+      "jp": "ひみつ",
+      "kanji": "秘密",
+      "eng": "secret"
+    },
+    {
+      "jp": "ファイル",
+      "kanji": "",
+      "eng": "(file) folder; portfolio; file"
+    },
+    {
+      "jp": "ほかの",
+      "kanji": "他の",
+      "eng": "other"
+    },
+    {
+      "jp": "ポケット",
+      "kanji": "",
+      "eng": "pocket"
+    },
+    {
+      "jp": "また",
+      "kanji": "",
+      "eng": "in addition"
+    },
+    {
+      "jp": "みかた",
+      "kanji": "味方",
+      "eng": "person on one’s side"
+    },
+    {
+      "jp": "みせる",
+      "kanji": "見せる",
+      "eng": "to show"
+    },
+    {
+      "jp": "みち",
+      "kanji": "道",
+      "eng": "way; road; directions"
+    },
+    {
+      "jp": "みちにまよう",
+      "kanji": "道に迷う",
+      "eng": "to become lost; to lose one’s way"
+    },
+    {
+      "jp": "みつかる",
+      "kanji": "見つかる",
+      "eng": "to be found"
+    },
+    {
+      "jp": "みらい",
+      "kanji": "未来",
+      "eng": "future"
+    },
+    {
+      "jp": "むかえにいく",
+      "kanji": "迎えに行く",
+      "eng": "to go to pick up"
+    },
+    {
+      "jp": "むかえにくる",
+      "kanji": "迎えに来る",
+      "eng": "to come to pick up"
+    },
+    {
+      "jp": "もどる",
+      "kanji": "戻る",
+      "eng": "to return; to come/go back"
+    },
+    {
+      "jp": "やくす",
+      "kanji": "訳す",
+      "eng": "to translate"
+    },
+    {
+      "jp": "よわい",
+      "kanji": "弱い",
+      "eng": "weak"
+    },
+    {
+      "jp": "ロボット",
+      "kanji": "",
+      "eng": "robot"
+    },
+    {
+      "jp": "わらう",
+      "kanji": "笑う",
+      "eng": "to laugh"
+    }
+  ],
+  "17": [
+    {
+      "jp": "あかちゃん",
+      "kanji": "赤ちゃん",
+      "eng": "baby"
+    },
+    {
+      "jp": "あぶない",
+      "kanji": "危ない",
+      "eng": "dangerous"
+    },
+    {
+      "jp": "いれる",
+      "kanji": "",
+      "eng": "to make tea, coffee, etc."
+    },
+    {
+      "jp": "うらやましい",
+      "kanji": "",
+      "eng": "envious"
+    },
+    {
+      "jp": "えいきょうをうける",
+      "kanji": "影響を受ける",
+      "eng": "to be affected"
+    },
+    {
+      "jp": "えらぶ",
+      "kanji": "選ぶ",
+      "eng": "to choose; to select"
+    },
+    {
+      "jp": "おいのりする",
+      "kanji": "お祈りする",
+      "eng": "to pray"
+    },
+    {
+      "jp": "おきゃくさん",
+      "kanji": "お客さん",
+      "eng": "guest; visitor; client; customer"
+    },
+    {
+      "jp": "おめでとうございます",
+      "kanji": "",
+      "eng": "Congratulations!"
+    },
+    {
+      "jp": "おもに",
+      "kanji": "主に",
+      "eng": "mainly"
+    },
+    {
+      "jp": "おゆ",
+      "kanji": "お湯",
+      "eng": "hot water"
+    },
+    {
+      "jp": "おゆをわかす",
+      "kanji": "お湯を沸かす",
+      "eng": "to boil water"
+    },
+    {
+      "jp": "かぎ",
+      "kanji": "鍵",
+      "eng": "lock; key"
+    },
+    {
+      "jp": "かぎをかける",
+      "kanji": "鍵をかける",
+      "eng": "to lock"
+    },
+    {
+      "jp": "かける（かぎを）",
+      "kanji": "かける（鍵を）",
+      "eng": "to lock"
+    },
+    {
+      "jp": "かける（パーマを）",
+      "kanji": "",
+      "eng": "to have one’s hair permed"
+    },
+    {
+      "jp": "かじ",
+      "kanji": "火事",
+      "eng": "fire"
+    },
+    {
+      "jp": "かぞえる",
+      "kanji": "数える",
+      "eng": "to count"
+    },
+    {
+      "jp": "カット",
+      "kanji": "",
+      "eng": "cut"
+    },
+    {
+      "jp": "～かな（あ）",
+      "kanji": "",
+      "eng": "I wonder . . . (casual)"
+    },
+    {
+      "jp": "かみ",
+      "kanji": "紙",
+      "eng": "paper"
+    },
+    {
+      "jp": "かみがた",
+      "kanji": "髪形",
+      "eng": "hairstyle"
+    },
+    {
+      "jp": "かみをとかす",
+      "kanji": "髪をとかす",
+      "eng": "to comb one’s hair"
+    },
+    {
+      "jp": "カラー",
+      "kanji": "",
+      "eng": "hair coloring"
+    },
+    {
+      "jp": "かる",
+      "kanji": "刈る",
+      "eng": "to crop"
+    },
+    {
+      "jp": "かんせいする",
+      "kanji": "完成する",
+      "eng": "to be completed"
+    },
+    {
+      "jp": "きゅうりょう",
+      "kanji": "給料",
+      "eng": "salary"
+    },
+    {
+      "jp": "くも",
+      "kanji": "雲",
+      "eng": "cloud"
+    },
+    {
+      "jp": "げいじゅつ",
+      "kanji": "芸術",
+      "eng": "art"
+    },
+    {
+      "jp": "けしょうする",
+      "kanji": "化粧する",
+      "eng": "to put makeup on"
+    },
+    {
+      "jp": "コンタクト（レンズ）",
+      "kanji": "",
+      "eng": "contact lenses"
+    },
+    {
+      "jp": "さいあく（な）",
+      "kanji": "最悪",
+      "eng": "the worst"
+    },
+    {
+      "jp": "さくひん",
+      "kanji": "作品",
+      "eng": "work (of art, etc.)"
+    },
+    {
+      "jp": "サラリーマン",
+      "kanji": "",
+      "eng": "salaryman; office worker"
+    },
+    {
+      "jp": "し",
+      "kanji": "詩",
+      "eng": "poem"
+    },
+    {
+      "jp": "しかし",
+      "kanji": "",
+      "eng": "however"
+    },
+    {
+      "jp": "シャンプー",
+      "kanji": "",
+      "eng": "shampoo"
+    },
+    {
+      "jp": "しゅうしょくする",
+      "kanji": "就職する",
+      "eng": "to get a full-time job (at . . . )"
+    },
+    {
+      "jp": "じゅうでうたれる",
+      "kanji": "銃で撃たれる",
+      "eng": "to be shot"
+    },
+    {
+      "jp": "しゅしょう",
+      "kanji": "首相",
+      "eng": "prime minister"
+    },
+    {
+      "jp": "しゅふ",
+      "kanji": "主夫",
+      "eng": "house husband"
+    },
+    {
+      "jp": "じゅんび",
+      "kanji": "準備",
+      "eng": "preparation"
+    },
+    {
+      "jp": "ショッピングモール",
+      "kanji": "",
+      "eng": "shopping mall"
+    },
+    {
+      "jp": "ずいぶん",
+      "kanji": "",
+      "eng": "very"
+    },
+    {
+      "jp": "すく",
+      "kanji": "",
+      "eng": "thin out (hair)"
+    },
+    {
+      "jp": "すくない",
+      "kanji": "少ない",
+      "eng": "a little; a few"
+    },
+    {
+      "jp": "スプーン",
+      "kanji": "",
+      "eng": "spoon"
+    },
+    {
+      "jp": "する",
+      "kanji": "",
+      "eng": "to wear small items (necktie, watch, etc.)"
+    },
+    {
+      "jp": "セット",
+      "kanji": "",
+      "eng": "set"
+    },
+    {
+      "jp": "せんきゅうひゃくろくじゅうねんだい",
+      "kanji": "1960年代",
+      "eng": "1960’s"
+    },
+    {
+      "jp": "そうか",
+      "kanji": "",
+      "eng": "I see. (casual)"
+    },
+    {
+      "jp": "そのご",
+      "kanji": "その後",
+      "eng": "after that"
+    },
+    {
+      "jp": "そめる",
+      "kanji": "",
+      "eng": "to dye"
+    },
+    {
+      "jp": "そる",
+      "kanji": "",
+      "eng": "to shave"
+    },
+    {
+      "jp": "そろえる",
+      "kanji": "",
+      "eng": "to make hair even; to trim"
+    },
+    {
+      "jp": "だいヒット",
+      "kanji": "大ヒット",
+      "eng": "big hit"
+    },
+    {
+      "jp": "たからくじ",
+      "kanji": "宝くじ",
+      "eng": "lottery"
+    },
+    {
+      "jp": "たからくじにあたる",
+      "kanji": "宝くじに当たる",
+      "eng": "to win a lottery"
+    },
+    {
+      "jp": "たりる",
+      "kanji": "足りる",
+      "eng": "to be sufficient; to be enough"
+    },
+    {
+      "jp": "ちがい",
+      "kanji": "違い",
+      "eng": "difference"
+    },
+    {
+      "jp": "つごうがわるい",
+      "kanji": "都合が悪い",
+      "eng": "inconvenient; to have a scheduling conflict"
+    },
+    {
+      "jp": "つよい",
+      "kanji": "強い",
+      "eng": "strong"
+    },
+    {
+      "jp": "てんじょう",
+      "kanji": "天井",
+      "eng": "ceiling"
+    },
+    {
+      "jp": "でんしレンジ",
+      "kanji": "電子レンジ",
+      "eng": "microwave oven"
+    },
+    {
+      "jp": "てんらんかい",
+      "kanji": "展覧会",
+      "eng": "art exhibition"
+    },
+    {
+      "jp": "なまえをつける",
+      "kanji": "名前をつける",
+      "eng": "to name"
+    },
+    {
+      "jp": "なれる",
+      "kanji": "慣れる",
+      "eng": "to get used to . . ."
+    },
+    {
+      "jp": "なんども",
+      "kanji": "何度も",
+      "eng": "many times"
+    },
+    {
+      "jp": "～にくらべて",
+      "kanji": "～に比べて",
+      "eng": "compared with . . ."
+    },
+    {
+      "jp": "ニュース",
+      "kanji": "",
+      "eng": "news"
+    },
+    {
+      "jp": "～によると",
+      "kanji": "",
+      "eng": "according to . . ."
+    },
+    {
+      "jp": "ぬぐ",
+      "kanji": "脱ぐ",
+      "eng": "to take off (clothes)"
+    },
+    {
+      "jp": "～のための",
+      "kanji": "",
+      "eng": "for the sake of . . ."
+    },
+    {
+      "jp": "パーマ",
+      "kanji": "",
+      "eng": "perm"
+    },
+    {
+      "jp": "パーマをかける",
+      "kanji": "",
+      "eng": "to have one’s hair permed"
+    },
+    {
+      "jp": "はいく",
+      "kanji": "俳句",
+      "eng": "haiku"
+    },
+    {
+      "jp": "はしご",
+      "kanji": "",
+      "eng": "ladders"
+    },
+    {
+      "jp": "パンダ",
+      "kanji": "",
+      "eng": "panda"
+    },
+    {
+      "jp": "ヒーター",
+      "kanji": "",
+      "eng": "heater"
+    },
+    {
+      "jp": "ひげ",
+      "kanji": "",
+      "eng": "beard"
+    },
+    {
+      "jp": "ひげをそる",
+      "kanji": "",
+      "eng": "to shave one’s beard"
+    },
+    {
+      "jp": "ブーツ",
+      "kanji": "",
+      "eng": "boots"
+    },
+    {
+      "jp": "ブロー",
+      "kanji": "",
+      "eng": "blow-dry"
+    },
+    {
+      "jp": "ぶんや",
+      "kanji": "分野",
+      "eng": "field; realm"
+    },
+    {
+      "jp": "まえ",
+      "kanji": "前",
+      "eng": "before . . ."
+    },
+    {
+      "jp": "むしめがね",
+      "kanji": "虫めがね",
+      "eng": "magnifying glass"
+    },
+    {
+      "jp": "もじ",
+      "kanji": "文字",
+      "eng": "letter; character"
+    },
+    {
+      "jp": "ゆ",
+      "kanji": "湯",
+      "eng": "hot water"
+    },
+    {
+      "jp": "りこんする",
+      "kanji": "離婚する",
+      "eng": "to get a divorce"
+    },
+    {
+      "jp": "りょこうがいしゃ",
+      "kanji": "旅行会社",
+      "eng": "travel agency"
+    }
+  ],
+  "18": [
+    {
+      "jp": "あかるい",
+      "kanji": "明るい",
+      "eng": "bright"
+    },
+    {
+      "jp": "あく",
+      "kanji": "開く",
+      "eng": "(something) opens"
+    },
+    {
+      "jp": "あと",
+      "kanji": "後",
+      "eng": "the rest"
+    },
+    {
+      "jp": "あやまる",
+      "kanji": "謝る",
+      "eng": "to apologize"
+    },
+    {
+      "jp": "～いじょう",
+      "kanji": "～以上",
+      "eng": ". . . or more"
+    },
+    {
+      "jp": "いますぐ",
+      "kanji": "今すぐ",
+      "eng": "right away"
+    },
+    {
+      "jp": "おかげで",
+      "kanji": "",
+      "eng": "thanks to . . ."
+    },
+    {
+      "jp": "おさきにしつれいします",
+      "kanji": "お先に失礼します",
+      "eng": "See you. (lit., I’m leaving ahead of you.)"
+    },
+    {
+      "jp": "おす",
+      "kanji": "押す",
+      "eng": "to press; to push"
+    },
+    {
+      "jp": "おちる",
+      "kanji": "落ちる",
+      "eng": "(something) drops"
+    },
+    {
+      "jp": "おつかれさま（でした）",
+      "kanji": "お疲れ様（でした）",
+      "eng": "You must be tired after working so hard. (greeting between friends and coworkers)"
+    },
+    {
+      "jp": "おとす",
+      "kanji": "落とす",
+      "eng": "to drop (something)"
+    },
+    {
+      "jp": "おゆがわく",
+      "kanji": "お湯が沸く",
+      "eng": "water boils"
+    },
+    {
+      "jp": "かたづける",
+      "kanji": "片付ける",
+      "eng": "to tidy up"
+    },
+    {
+      "jp": "かていきょうし",
+      "kanji": "家庭教師",
+      "eng": "tutor"
+    },
+    {
+      "jp": "かんがえる",
+      "kanji": "考える",
+      "eng": "to think (about); to consider"
+    },
+    {
+      "jp": "きえる",
+      "kanji": "消える",
+      "eng": "(something) goes off"
+    },
+    {
+      "jp": "くらい",
+      "kanji": "暗い",
+      "eng": "dark"
+    },
+    {
+      "jp": "けいたい（でんわ）",
+      "kanji": "携帯（電話）",
+      "eng": "cell phone"
+    },
+    {
+      "jp": "ころぶ",
+      "kanji": "転ぶ",
+      "eng": "to fall down"
+    },
+    {
+      "jp": "こわす",
+      "kanji": "壊す",
+      "eng": "to break (something)"
+    },
+    {
+      "jp": "こわれる",
+      "kanji": "壊れる",
+      "eng": "(something) breaks"
+    },
+    {
+      "jp": "さく",
+      "kanji": "咲く",
+      "eng": "to bloom"
+    },
+    {
+      "jp": "さくら",
+      "kanji": "桜",
+      "eng": "cherry blossom"
+    },
+    {
+      "jp": "したしい",
+      "kanji": "親しい",
+      "eng": "close; intimate"
+    },
+    {
+      "jp": "しまる",
+      "kanji": "閉まる",
+      "eng": "(something) closes"
+    },
+    {
+      "jp": "しゅうにゅう",
+      "kanji": "収入",
+      "eng": "income"
+    },
+    {
+      "jp": "しょうゆ",
+      "kanji": "しょう油",
+      "eng": "soy sauce"
+    },
+    {
+      "jp": "しょくひ",
+      "kanji": "食費",
+      "eng": "cost of food"
+    },
+    {
+      "jp": "じょしがくせい",
+      "kanji": "女子学生",
+      "eng": "female student"
+    },
+    {
+      "jp": "スイッチ",
+      "kanji": "",
+      "eng": "switch"
+    },
+    {
+      "jp": "スープ",
+      "kanji": "",
+      "eng": "soup"
+    },
+    {
+      "jp": "スカート",
+      "kanji": "",
+      "eng": "skirt"
+    },
+    {
+      "jp": "せいかつのゆとり",
+      "kanji": "生活のゆとり",
+      "eng": "extra money to spare for the cost of living"
+    },
+    {
+      "jp": "せいかつひ",
+      "kanji": "生活費",
+      "eng": "the cost of living"
+    },
+    {
+      "jp": "そと",
+      "kanji": "外",
+      "eng": "outside"
+    },
+    {
+      "jp": "ソファ",
+      "kanji": "",
+      "eng": "sofa"
+    },
+    {
+      "jp": "たいせつ（な）",
+      "kanji": "大切",
+      "eng": "precious; important"
+    },
+    {
+      "jp": "タオル",
+      "kanji": "",
+      "eng": "towel"
+    },
+    {
+      "jp": "たすかる",
+      "kanji": "助かる",
+      "eng": "to be saved; to be helped"
+    },
+    {
+      "jp": "たのむ",
+      "kanji": "頼む",
+      "eng": "to ask (a favor)"
+    },
+    {
+      "jp": "～（ん）だろう",
+      "kanji": "",
+      "eng": "short form of ～（ん）でしょう"
+    },
+    {
+      "jp": "だんしがくせい",
+      "kanji": "男子学生",
+      "eng": "male student"
+    },
+    {
+      "jp": "ちからしごと",
+      "kanji": "力仕事",
+      "eng": "physical labor (such as construction)"
+    },
+    {
+      "jp": "ちゅうもんする",
+      "kanji": "注文する",
+      "eng": "to place an order"
+    },
+    {
+      "jp": "ちょきんする",
+      "kanji": "貯金する",
+      "eng": "to deposit money (in a bank)"
+    },
+    {
+      "jp": "つく",
+      "kanji": "",
+      "eng": "(something) turns on"
+    },
+    {
+      "jp": "どうしよう",
+      "kanji": "",
+      "eng": "What should I/we do?"
+    },
+    {
+      "jp": "はじめは",
+      "kanji": "初めは",
+      "eng": "at first"
+    },
+    {
+      "jp": "はずかしい",
+      "kanji": "恥ずかしい",
+      "eng": "embarrassing; to feel embarrassed"
+    },
+    {
+      "jp": "バナナ",
+      "kanji": "",
+      "eng": "banana"
+    },
+    {
+      "jp": "ひっこし",
+      "kanji": "引っ越し",
+      "eng": "moving"
+    },
+    {
+      "jp": "ポップコーン",
+      "kanji": "",
+      "eng": "popcorn"
+    },
+    {
+      "jp": "まいつき",
+      "kanji": "毎月",
+      "eng": "every month"
+    },
+    {
+      "jp": "～みまん",
+      "kanji": "～未満",
+      "eng": "less than . . ."
+    },
+    {
+      "jp": "むし",
+      "kanji": "虫",
+      "eng": "insect"
+    },
+    {
+      "jp": "むり（な）",
+      "kanji": "無理",
+      "eng": "impossible"
+    },
+    {
+      "jp": "もくてき",
+      "kanji": "目的",
+      "eng": "object; purpose"
+    },
+    {
+      "jp": "やちん",
+      "kanji": "家賃",
+      "eng": "rent"
+    },
+    {
+      "jp": "ゆうがた",
+      "kanji": "夕方",
+      "eng": "evening"
+    },
+    {
+      "jp": "ようふく",
+      "kanji": "洋服",
+      "eng": "clothes"
+    },
+    {
+      "jp": "よごす",
+      "kanji": "汚す",
+      "eng": "to make dirty"
+    },
+    {
+      "jp": "よごれる",
+      "kanji": "汚れる",
+      "eng": "to become dirty"
+    },
+    {
+      "jp": "れいぞうこ",
+      "kanji": "冷蔵庫",
+      "eng": "refrigerator"
+    },
+    {
+      "jp": "ろうそく",
+      "kanji": "",
+      "eng": "candle"
+    },
+    {
+      "jp": "ワンルームマンション",
+      "kanji": "",
+      "eng": "studio apartment"
+    }
+  ],
+  "19": [
+    {
+      "jp": "いかが",
+      "kanji": "",
+      "eng": "how (polite expression of どう)"
+    },
+    {
+      "jp": "いらっしゃる",
+      "kanji": "",
+      "eng": "honorific expression for いく, くる, and いる"
+    },
+    {
+      "jp": "うける",
+      "kanji": "受ける",
+      "eng": "to take (an examination)"
+    },
+    {
+      "jp": "えんりょする",
+      "kanji": "遠慮する",
+      "eng": "to hold back for the time being; to refrain from"
+    },
+    {
+      "jp": "おくさま",
+      "kanji": "奥様",
+      "eng": "(your/someone’s) wife (polite)"
+    },
+    {
+      "jp": "おくる",
+      "kanji": "送る",
+      "eng": "to walk/drive (someone)"
+    },
+    {
+      "jp": "おこさん",
+      "kanji": "お子さん",
+      "eng": "(your/someone’s) child (polite)"
+    },
+    {
+      "jp": "おせわになる",
+      "kanji": "お世話になる",
+      "eng": "to be in someone’s care"
+    },
+    {
+      "jp": "おっしゃる",
+      "kanji": "",
+      "eng": "honorific expression for いう"
+    },
+    {
+      "jp": "おもいだす",
+      "kanji": "思い出す",
+      "eng": "to recall"
+    },
+    {
+      "jp": "おやすみになる",
+      "kanji": "お休みになる",
+      "eng": "honorific expression for ねる"
+    },
+    {
+      "jp": "おれい",
+      "kanji": "お礼",
+      "eng": "expression of gratitude"
+    },
+    {
+      "jp": "かける",
+      "kanji": "",
+      "eng": "to sit down"
+    },
+    {
+      "jp": "きまる",
+      "kanji": "決まる",
+      "eng": "to be decided"
+    },
+    {
+      "jp": "くださる",
+      "kanji": "下さる",
+      "eng": "honorific expression for くれる"
+    },
+    {
+      "jp": "けいご",
+      "kanji": "敬語",
+      "eng": "honorific language"
+    },
+    {
+      "jp": "こくさい",
+      "kanji": "国際",
+      "eng": "international"
+    },
+    {
+      "jp": "ごちそうする",
+      "kanji": "",
+      "eng": "to treat/invite (someone) to a meal"
+    },
+    {
+      "jp": "こちら",
+      "kanji": "",
+      "eng": "this way (polite)"
+    },
+    {
+      "jp": "ごらんになる",
+      "kanji": "ご覧になる",
+      "eng": "honorific expression for みる"
+    },
+    {
+      "jp": "しゅるい",
+      "kanji": "種類",
+      "eng": "a kind; a sort"
+    },
+    {
+      "jp": "しょうぎ",
+      "kanji": "",
+      "eng": "Japanese chess"
+    },
+    {
+      "jp": "しょうしょう",
+      "kanji": "少々",
+      "eng": "a few seconds"
+    },
+    {
+      "jp": "しょうたいする",
+      "kanji": "招待する",
+      "eng": "to invite someone (to an event/a place)"
+    },
+    {
+      "jp": "しりあう",
+      "kanji": "知り合う",
+      "eng": "to get acquainted with"
+    },
+    {
+      "jp": "せいかく",
+      "kanji": "性格",
+      "eng": "personality"
+    },
+    {
+      "jp": "それで",
+      "kanji": "",
+      "eng": "then; therefore"
+    },
+    {
+      "jp": "それでは",
+      "kanji": "",
+      "eng": "well then"
+    },
+    {
+      "jp": "たいせつにする",
+      "kanji": "大切にする",
+      "eng": "to take good care of"
+    },
+    {
+      "jp": "たいへん",
+      "kanji": "",
+      "eng": "greatly"
+    },
+    {
+      "jp": "たつ",
+      "kanji": "",
+      "eng": "(time) pass"
+    },
+    {
+      "jp": "～ちゅう",
+      "kanji": "～中",
+      "eng": "while . . ."
+    },
+    {
+      "jp": "ちゅうがくせい",
+      "kanji": "中学生",
+      "eng": "junior high school student"
+    },
+    {
+      "jp": "～ていらっしゃる",
+      "kanji": "",
+      "eng": "honorific expression for ～ている"
+    },
+    {
+      "jp": "でんきこうがく",
+      "kanji": "電気工学",
+      "eng": "electrical engineering"
+    },
+    {
+      "jp": "どうぞよろしくおねがいします",
+      "kanji": "どうぞよろしくお願いします",
+      "eng": "Thank you in advance."
+    },
+    {
+      "jp": "どちら",
+      "kanji": "",
+      "eng": "where (polite)"
+    },
+    {
+      "jp": "とつぜん",
+      "kanji": "突然",
+      "eng": "suddenly"
+    },
+    {
+      "jp": "なかがいい",
+      "kanji": "仲がいい",
+      "eng": "be on good/close terms; to get along well"
+    },
+    {
+      "jp": "なさる",
+      "kanji": "",
+      "eng": "honorific expression for する"
+    },
+    {
+      "jp": "なぜ",
+      "kanji": "",
+      "eng": "why"
+    },
+    {
+      "jp": "なつかしい",
+      "kanji": "",
+      "eng": "to miss; to long for"
+    },
+    {
+      "jp": "なまけもの",
+      "kanji": "怠け者",
+      "eng": "lazy person"
+    },
+    {
+      "jp": "～のしょうかいで",
+      "kanji": "～の紹介で",
+      "eng": "through the introduction of"
+    },
+    {
+      "jp": "～のために",
+      "kanji": "",
+      "eng": "for . . ."
+    },
+    {
+      "jp": "はずかしがりや",
+      "kanji": "恥ずかしがり屋",
+      "eng": "shy person"
+    },
+    {
+      "jp": "はれる",
+      "kanji": "晴れる",
+      "eng": "to become sunny"
+    },
+    {
+      "jp": "ひっこす",
+      "kanji": "引っ越す",
+      "eng": "to move (to another place to live)"
+    },
+    {
+      "jp": "ぶちょう",
+      "kanji": "部長",
+      "eng": "department manager"
+    },
+    {
+      "jp": "ほんとうは",
+      "kanji": "本当は",
+      "eng": "in fact; originally"
+    },
+    {
+      "jp": "まいあさ",
+      "kanji": "毎朝",
+      "eng": "every morning"
+    },
+    {
+      "jp": "まだ",
+      "kanji": "",
+      "eng": "still"
+    },
+    {
+      "jp": "まちがい",
+      "kanji": "間違い",
+      "eng": "mistake"
+    },
+    {
+      "jp": "みなさま",
+      "kanji": "みな様",
+      "eng": "everyone (polite expression of みなさん)"
+    },
+    {
+      "jp": "～めいさま",
+      "kanji": "～名様",
+      "eng": "party of . . . people"
+    },
+    {
+      "jp": "めしあがる",
+      "kanji": "召し上がる",
+      "eng": "honorific expression for たべる and のむ"
+    },
+    {
+      "jp": "もうしこみ",
+      "kanji": "申し込み",
+      "eng": "application"
+    },
+    {
+      "jp": "もうしわけありません",
+      "kanji": "申し訳ありません",
+      "eng": "You have my apologies."
+    },
+    {
+      "jp": "もし～たら",
+      "kanji": "",
+      "eng": "if . . ."
+    },
+    {
+      "jp": "もてる",
+      "kanji": "",
+      "eng": "to be popular (in terms of romantic interest)"
+    },
+    {
+      "jp": "ゆうじん",
+      "kanji": "友人",
+      "eng": "friend"
+    },
+    {
+      "jp": "ようこそ",
+      "kanji": "",
+      "eng": "Welcome."
+    },
+    {
+      "jp": "よぶ",
+      "kanji": "呼ぶ",
+      "eng": "to call (one’s name); to invite"
+    },
+    {
+      "jp": "よる",
+      "kanji": "寄る",
+      "eng": "to stop by"
+    },
+    {
+      "jp": "よろしくおつたえください",
+      "kanji": "よろしくお伝えください",
+      "eng": "Please give my best regards (to . . . )."
+    }
+  ],
+  "20": [
+    {
+      "jp": "あちら",
+      "kanji": "",
+      "eng": "that way (polite)"
+    },
+    {
+      "jp": "アニメ",
+      "kanji": "",
+      "eng": "animation"
+    },
+    {
+      "jp": "あんなに",
+      "kanji": "",
+      "eng": "so; such"
+    },
+    {
+      "jp": "いたす",
+      "kanji": "致す",
+      "eng": "extra-modest expression for する"
+    },
+    {
+      "jp": "いただく",
+      "kanji": "頂く",
+      "eng": "extra-modest expression for たべる and のむ"
+    },
+    {
+      "jp": "いただく",
+      "kanji": "頂く",
+      "eng": "humble expression for もらう"
+    },
+    {
+      "jp": "いっかい",
+      "kanji": "一階",
+      "eng": "first floor"
+    },
+    {
+      "jp": "いなか",
+      "kanji": "",
+      "eng": "countryside"
+    },
+    {
+      "jp": "うかがう",
+      "kanji": "伺う",
+      "eng": "to humbly visit; to humbly ask"
+    },
+    {
+      "jp": "うちゅうじん",
+      "kanji": "宇宙人",
+      "eng": "space alien"
+    },
+    {
+      "jp": "うれる",
+      "kanji": "売れる",
+      "eng": "to be sold"
+    },
+    {
+      "jp": "えさ",
+      "kanji": "",
+      "eng": "feed"
+    },
+    {
+      "jp": "えど",
+      "kanji": "江戸",
+      "eng": "former name of Tokyo"
+    },
+    {
+      "jp": "えどじだい",
+      "kanji": "江戸時代",
+      "eng": "Edo period (1603－1868)"
+    },
+    {
+      "jp": "おたく",
+      "kanji": "お宅",
+      "eng": "(someone’s) home/house"
+    },
+    {
+      "jp": "おと",
+      "kanji": "音",
+      "eng": "sound"
+    },
+    {
+      "jp": "おにぎり",
+      "kanji": "",
+      "eng": "rice ball"
+    },
+    {
+      "jp": "おもい",
+      "kanji": "重い",
+      "eng": "heavy; serious (illness)"
+    },
+    {
+      "jp": "おる",
+      "kanji": "",
+      "eng": "extra-modest expression for いる"
+    },
+    {
+      "jp": "～かい",
+      "kanji": "～階",
+      "eng": ". . . th floor"
+    },
+    {
+      "jp": "かかりのもの",
+      "kanji": "係の者",
+      "eng": "our person in charge"
+    },
+    {
+      "jp": "かしこまりました",
+      "kanji": "",
+      "eng": "Certainly."
+    },
+    {
+      "jp": "がっかりする",
+      "kanji": "",
+      "eng": "to be disappointed"
+    },
+    {
+      "jp": "かるい",
+      "kanji": "軽い",
+      "eng": "light"
+    },
+    {
+      "jp": "きこえる",
+      "kanji": "聞こえる",
+      "eng": "to be audible"
+    },
+    {
+      "jp": "こうかんする",
+      "kanji": "交換する",
+      "eng": "to exchange"
+    },
+    {
+      "jp": "こころ",
+      "kanji": "心",
+      "eng": "mind; heart"
+    },
+    {
+      "jp": "ござる",
+      "kanji": "",
+      "eng": "extra-modest expression for ある"
+    },
+    {
+      "jp": "さしあげる",
+      "kanji": "差し上げる",
+      "eng": "humble expression for あげる"
+    },
+    {
+      "jp": "じ",
+      "kanji": "字",
+      "eng": "letter; character"
+    },
+    {
+      "jp": "しつれいしました",
+      "kanji": "失礼しました",
+      "eng": "I’m very sorry."
+    },
+    {
+      "jp": "してん",
+      "kanji": "支店",
+      "eng": "branch office"
+    },
+    {
+      "jp": "しゅみ",
+      "kanji": "趣味",
+      "eng": "hobby; pastime"
+    },
+    {
+      "jp": "しょうせつ",
+      "kanji": "小説",
+      "eng": "novel"
+    },
+    {
+      "jp": "スニーカー",
+      "kanji": "",
+      "eng": "sneakers"
+    },
+    {
+      "jp": "する",
+      "kanji": "",
+      "eng": "to cost"
+    },
+    {
+      "jp": "せいかつする",
+      "kanji": "生活する",
+      "eng": "to lead a life"
+    },
+    {
+      "jp": "ぜったいに",
+      "kanji": "絶対に",
+      "eng": "definitely; no matter what"
+    },
+    {
+      "jp": "せんす",
+      "kanji": "扇子",
+      "eng": "(hand) fan"
+    },
+    {
+      "jp": "そうだ！",
+      "kanji": "",
+      "eng": "I have an idea!"
+    },
+    {
+      "jp": "だく",
+      "kanji": "抱く",
+      "eng": "to hold something in one’s arm"
+    },
+    {
+      "jp": "だます",
+      "kanji": "",
+      "eng": "to deceive"
+    },
+    {
+      "jp": "ちゃみせ",
+      "kanji": "茶店",
+      "eng": "teahouse"
+    },
+    {
+      "jp": "つき",
+      "kanji": "月",
+      "eng": "moon"
+    },
+    {
+      "jp": "つたえる",
+      "kanji": "伝える",
+      "eng": "to convey message"
+    },
+    {
+      "jp": "つづける",
+      "kanji": "続ける",
+      "eng": "to continue"
+    },
+    {
+      "jp": "～ておる",
+      "kanji": "",
+      "eng": "extra-modest expression for ～ている"
+    },
+    {
+      "jp": "できれば",
+      "kanji": "",
+      "eng": "if possible"
+    },
+    {
+      "jp": "～でござる",
+      "kanji": "",
+      "eng": "extra-modest expression for です"
+    },
+    {
+      "jp": "では",
+      "kanji": "",
+      "eng": "well then (polite)"
+    },
+    {
+      "jp": "ドイツ",
+      "kanji": "",
+      "eng": "Germany"
+    },
+    {
+      "jp": "どうぶつ",
+      "kanji": "動物",
+      "eng": "animal"
+    },
+    {
+      "jp": "とまる",
+      "kanji": "止まる",
+      "eng": "to stop"
+    },
+    {
+      "jp": "にこにこする",
+      "kanji": "",
+      "eng": "to smile"
+    },
+    {
+      "jp": "ねだん",
+      "kanji": "値段",
+      "eng": "price"
+    },
+    {
+      "jp": "ひっかく",
+      "kanji": "",
+      "eng": "to scratch"
+    },
+    {
+      "jp": "ふしぎ（な）",
+      "kanji": "不思議",
+      "eng": "mysterious"
+    },
+    {
+      "jp": "ヘッドホン",
+      "kanji": "",
+      "eng": "headphones"
+    },
+    {
+      "jp": "へんぴんする",
+      "kanji": "返品する",
+      "eng": "to return (merchandise)"
+    },
+    {
+      "jp": "まいる",
+      "kanji": "参る",
+      "eng": "extra-modest expression for いく and くる"
+    },
+    {
+      "jp": "まことに",
+      "kanji": "誠に",
+      "eng": "really (very polite)"
+    },
+    {
+      "jp": "また",
+      "kanji": "",
+      "eng": "again"
+    },
+    {
+      "jp": "またせる",
+      "kanji": "待たせる",
+      "eng": "to keep (someone) waiting"
+    },
+    {
+      "jp": "～みたいなX",
+      "kanji": "",
+      "eng": "X like . . ."
+    },
+    {
+      "jp": "みぶり",
+      "kanji": "身ぶり",
+      "eng": "gesture"
+    },
+    {
+      "jp": "もうす",
+      "kanji": "申す",
+      "eng": "extra-modest expression for いう"
+    },
+    {
+      "jp": "～や",
+      "kanji": "～屋",
+      "eng": ". . . shop"
+    },
+    {
+      "jp": "やった！",
+      "kanji": "",
+      "eng": "I did it!"
+    },
+    {
+      "jp": "よろしかったら",
+      "kanji": "",
+      "eng": "if it is okay (polite)"
+    },
+    {
+      "jp": "らくご",
+      "kanji": "落語",
+      "eng": "comic monologue"
+    },
+    {
+      "jp": "らくごか",
+      "kanji": "落語家",
+      "eng": "comic storyteller"
+    },
+    {
+      "jp": "りょう",
+      "kanji": "両",
+      "eng": "a unit of currency used in the Edo period"
+    },
+    {
+      "jp": "わたす",
+      "kanji": "渡す",
+      "eng": "to give; to hand"
+    }
+  ],
+  "21": [
+    {
+      "jp": "あんぜん（な）",
+      "kanji": "安全",
+      "eng": "safe"
+    },
+    {
+      "jp": "いう（もんくを）",
+      "kanji": "言う（文句を）",
+      "eng": "to complain"
+    },
+    {
+      "jp": "いじめる",
+      "kanji": "",
+      "eng": "to bully"
+    },
+    {
+      "jp": "いっしょうけんめい",
+      "kanji": "一生懸命",
+      "eng": "very hard"
+    },
+    {
+      "jp": "うらない",
+      "kanji": "占い",
+      "eng": "fortune-telling"
+    },
+    {
+      "jp": "おおくの～",
+      "kanji": "多くの～",
+      "eng": "many . . ."
+    },
+    {
+      "jp": "おく",
+      "kanji": "置く",
+      "eng": "to put; to lay; to place"
+    },
+    {
+      "jp": "おこる",
+      "kanji": "起こる",
+      "eng": "to occur; to happen"
+    },
+    {
+      "jp": "おまもり",
+      "kanji": "お守り",
+      "eng": "charm (against evils); amulet"
+    },
+    {
+      "jp": "か",
+      "kanji": "蚊",
+      "eng": "mosquito"
+    },
+    {
+      "jp": "かいぎ",
+      "kanji": "会議",
+      "eng": "business meeting; conference"
+    },
+    {
+      "jp": "ガソリン",
+      "kanji": "",
+      "eng": "gasoline"
+    },
+    {
+      "jp": "かよう",
+      "kanji": "通う",
+      "eng": "to commute to"
+    },
+    {
+      "jp": "かんきょう",
+      "kanji": "環境",
+      "eng": "environment"
+    },
+    {
+      "jp": "きがえる",
+      "kanji": "着替える",
+      "eng": "to change clothes"
+    },
+    {
+      "jp": "きがつく",
+      "kanji": "気が付く",
+      "eng": "to notice"
+    },
+    {
+      "jp": "きにする",
+      "kanji": "気にする",
+      "eng": "to worry"
+    },
+    {
+      "jp": "くらべる",
+      "kanji": "比べる",
+      "eng": "to compare"
+    },
+    {
+      "jp": "けいさつ",
+      "kanji": "警察",
+      "eng": "police; police station"
+    },
+    {
+      "jp": "ける",
+      "kanji": "",
+      "eng": "to kick"
+    },
+    {
+      "jp": "こうじょう",
+      "kanji": "工場",
+      "eng": "factory"
+    },
+    {
+      "jp": "～ころ",
+      "kanji": "",
+      "eng": "time of . . . ; when . . ."
+    },
+    {
+      "jp": "さす",
+      "kanji": "刺す",
+      "eng": "to bite"
+    },
+    {
+      "jp": "さわる",
+      "kanji": "触る",
+      "eng": "to touch"
+    },
+    {
+      "jp": "じゅぎょうりょう",
+      "kanji": "授業料",
+      "eng": "tuition"
+    },
+    {
+      "jp": "しょくじ",
+      "kanji": "食事",
+      "eng": "meal"
+    },
+    {
+      "jp": "しんじる",
+      "kanji": "信じる",
+      "eng": "to believe"
+    },
+    {
+      "jp": "しんぱい（な）",
+      "kanji": "心配",
+      "eng": "worried about"
+    },
+    {
+      "jp": "スピーチ",
+      "kanji": "",
+      "eng": "speech"
+    },
+    {
+      "jp": "ぜいたくをする",
+      "kanji": "",
+      "eng": "to indulge in luxury"
+    },
+    {
+      "jp": "せいふ",
+      "kanji": "政府",
+      "eng": "government"
+    },
+    {
+      "jp": "ただの～",
+      "kanji": "",
+      "eng": "nothing more than . . ."
+    },
+    {
+      "jp": "たのしみ",
+      "kanji": "楽しみ",
+      "eng": "pleasure"
+    },
+    {
+      "jp": "ためる",
+      "kanji": "",
+      "eng": "to save money"
+    },
+    {
+      "jp": "ちかん",
+      "kanji": "",
+      "eng": "groper; pervert"
+    },
+    {
+      "jp": "つかまる",
+      "kanji": "捕まる",
+      "eng": "to be arrested; to be caught"
+    },
+    {
+      "jp": "つつむ",
+      "kanji": "包む",
+      "eng": "to wrap; to cover"
+    },
+    {
+      "jp": "どうりょう",
+      "kanji": "同僚",
+      "eng": "colleague"
+    },
+    {
+      "jp": "とおい",
+      "kanji": "遠い",
+      "eng": "far (away)"
+    },
+    {
+      "jp": "ところが",
+      "kanji": "",
+      "eng": "however; on the contrary"
+    },
+    {
+      "jp": "とにかく",
+      "kanji": "",
+      "eng": "anyhow; anyway"
+    },
+    {
+      "jp": "どろぼう",
+      "kanji": "泥棒",
+      "eng": "thief; burglar"
+    },
+    {
+      "jp": "ながいあいだ",
+      "kanji": "長い間",
+      "eng": "long time"
+    },
+    {
+      "jp": "なぐる",
+      "kanji": "殴る",
+      "eng": "to strike; to hit; to punch"
+    },
+    {
+      "jp": "にゅういんする",
+      "kanji": "入院する",
+      "eng": "to be hospitalized"
+    },
+    {
+      "jp": "ぬすむ",
+      "kanji": "盗む",
+      "eng": "to steal; to rob"
+    },
+    {
+      "jp": "ばかにする",
+      "kanji": "",
+      "eng": "to insult; to make a fool of . . ."
+    },
+    {
+      "jp": "はる",
+      "kanji": "貼る",
+      "eng": "to post; to stick"
+    },
+    {
+      "jp": "はんにん",
+      "kanji": "犯人",
+      "eng": "criminal"
+    },
+    {
+      "jp": "ひどい",
+      "kanji": "",
+      "eng": "awful"
+    },
+    {
+      "jp": "ひるねをする",
+      "kanji": "昼寝をする",
+      "eng": "to take a nap"
+    },
+    {
+      "jp": "ふべん（な）",
+      "kanji": "不便",
+      "eng": "inconvenient"
+    },
+    {
+      "jp": "ふむ",
+      "kanji": "踏む",
+      "eng": "to step on"
+    },
+    {
+      "jp": "ふる",
+      "kanji": "",
+      "eng": "to turn down (somebody); to reject; to jilt"
+    },
+    {
+      "jp": "へん（な）",
+      "kanji": "変",
+      "eng": "strange; unusual"
+    },
+    {
+      "jp": "ポスター",
+      "kanji": "",
+      "eng": "poster"
+    },
+    {
+      "jp": "ほめる",
+      "kanji": "",
+      "eng": "to praise; to say nice things"
+    },
+    {
+      "jp": "まちがえる",
+      "kanji": "間違える",
+      "eng": "to make a mistake"
+    },
+    {
+      "jp": "みつける",
+      "kanji": "見つける",
+      "eng": "to find"
+    },
+    {
+      "jp": "むかし",
+      "kanji": "昔",
+      "eng": "old days; past"
+    },
+    {
+      "jp": "めいしん",
+      "kanji": "迷信",
+      "eng": "superstition"
+    },
+    {
+      "jp": "めちゃくちゃ（な）",
+      "kanji": "",
+      "eng": "messy; disorganized"
+    },
+    {
+      "jp": "めったに～ない",
+      "kanji": "",
+      "eng": "seldom"
+    },
+    {
+      "jp": "もんく",
+      "kanji": "文句",
+      "eng": "complaint"
+    },
+    {
+      "jp": "もんくをいう",
+      "kanji": "文句を言う",
+      "eng": "to complain"
+    },
+    {
+      "jp": "やく",
+      "kanji": "焼く",
+      "eng": "to bake; to burn; to grill"
+    },
+    {
+      "jp": "やる",
+      "kanji": "",
+      "eng": "to give (to pets, plants, younger siblings, etc.)"
+    },
+    {
+      "jp": "るす",
+      "kanji": "留守",
+      "eng": "absence; not at home"
+    },
+    {
+      "jp": "れんらくする",
+      "kanji": "連絡する",
+      "eng": "to contact"
+    }
+  ],
+  "22": [
+    {
+      "jp": "あいかわらず",
+      "kanji": "相変わらず",
+      "eng": "as usual"
+    },
+    {
+      "jp": "あいて",
+      "kanji": "相手",
+      "eng": "partner; the other person"
+    },
+    {
+      "jp": "うけつけ",
+      "kanji": "受付",
+      "eng": "reception desk"
+    },
+    {
+      "jp": "うまく",
+      "kanji": "",
+      "eng": "well; successfully; skillfully"
+    },
+    {
+      "jp": "うまくいく",
+      "kanji": "",
+      "eng": "to go well"
+    },
+    {
+      "jp": "うらやましがる",
+      "kanji": "",
+      "eng": "(somebody is) envious"
+    },
+    {
+      "jp": "うるさい",
+      "kanji": "",
+      "eng": "noisy; annoying"
+    },
+    {
+      "jp": "えいかいわ",
+      "kanji": "英会話",
+      "eng": "English conversation"
+    },
+    {
+      "jp": "おじょうさん",
+      "kanji": "お嬢さん",
+      "eng": "(someone’s) daughter (polite)"
+    },
+    {
+      "jp": "おねがいする",
+      "kanji": "お願いする",
+      "eng": "to request help"
+    },
+    {
+      "jp": "かじ",
+      "kanji": "家事",
+      "eng": "housework"
+    },
+    {
+      "jp": "かぜ",
+      "kanji": "風",
+      "eng": "wind"
+    },
+    {
+      "jp": "かぜがふく",
+      "kanji": "風が吹く",
+      "eng": "the wind blows"
+    },
+    {
+      "jp": "かつ",
+      "kanji": "勝つ",
+      "eng": "to win"
+    },
+    {
+      "jp": "かわりに",
+      "kanji": "代わりに",
+      "eng": "instead"
+    },
+    {
+      "jp": "き",
+      "kanji": "木",
+      "eng": "tree"
+    },
+    {
+      "jp": "けいかくをたてる",
+      "kanji": "計画を立てる",
+      "eng": "to make a plan"
+    },
+    {
+      "jp": "こうはい",
+      "kanji": "後輩",
+      "eng": "junior member of a group"
+    },
+    {
+      "jp": "コピーをとる",
+      "kanji": "コピーを取る",
+      "eng": "to make a photocopy"
+    },
+    {
+      "jp": "こんなふう",
+      "kanji": "",
+      "eng": "like this"
+    },
+    {
+      "jp": "さる",
+      "kanji": "猿",
+      "eng": "monkey"
+    },
+    {
+      "jp": "さんせいする",
+      "kanji": "賛成する",
+      "eng": "to agree"
+    },
+    {
+      "jp": "しかたがない",
+      "kanji": "",
+      "eng": "cannot be helped"
+    },
+    {
+      "jp": "しっぱいする",
+      "kanji": "失敗する",
+      "eng": "to fail; to be unsuccessful"
+    },
+    {
+      "jp": "じゆう",
+      "kanji": "自由",
+      "eng": "freedom"
+    },
+    {
+      "jp": "じゆうに",
+      "kanji": "自由に",
+      "eng": "freely"
+    },
+    {
+      "jp": "しょるい",
+      "kanji": "書類",
+      "eng": "document"
+    },
+    {
+      "jp": "しんゆう",
+      "kanji": "親友",
+      "eng": "best friend"
+    },
+    {
+      "jp": "ずっと",
+      "kanji": "",
+      "eng": "for a long time; all the time"
+    },
+    {
+      "jp": "そだてる",
+      "kanji": "育てる",
+      "eng": "to raise; to bring up"
+    },
+    {
+      "jp": "そんなこと（は）ない",
+      "kanji": "",
+      "eng": "I don’t think so."
+    },
+    {
+      "jp": "タイプ",
+      "kanji": "",
+      "eng": "type"
+    },
+    {
+      "jp": "たのしそうに",
+      "kanji": "楽しそうに",
+      "eng": "joyfully"
+    },
+    {
+      "jp": "～ちゃん",
+      "kanji": "",
+      "eng": "suffix for names of children"
+    },
+    {
+      "jp": "てつやする",
+      "kanji": "徹夜する",
+      "eng": "to stay up all night"
+    },
+    {
+      "jp": "～とか",
+      "kanji": "",
+      "eng": ". . . for example"
+    },
+    {
+      "jp": "なんだか",
+      "kanji": "",
+      "eng": "somehow"
+    },
+    {
+      "jp": "にげる",
+      "kanji": "逃げる",
+      "eng": "to run away; to escape"
+    },
+    {
+      "jp": "はこぶ",
+      "kanji": "運ぶ",
+      "eng": "to carry"
+    },
+    {
+      "jp": "はんたいする",
+      "kanji": "反対する",
+      "eng": "to oppose; to object to"
+    },
+    {
+      "jp": "ひとりぐらし",
+      "kanji": "一人暮らし",
+      "eng": "living alone"
+    },
+    {
+      "jp": "ひろう",
+      "kanji": "拾う",
+      "eng": "to pick up (something)"
+    },
+    {
+      "jp": "びんぼう（な）",
+      "kanji": "貧乏",
+      "eng": "poor"
+    },
+    {
+      "jp": "ぶか",
+      "kanji": "部下",
+      "eng": "subordinate"
+    },
+    {
+      "jp": "ふくしゅう",
+      "kanji": "復習",
+      "eng": "review of a lesson"
+    },
+    {
+      "jp": "ふつかかん",
+      "kanji": "二日間",
+      "eng": "for two days"
+    },
+    {
+      "jp": "プロジェクト",
+      "kanji": "",
+      "eng": "project"
+    },
+    {
+      "jp": "ぺらぺら（な）",
+      "kanji": "",
+      "eng": "fluent"
+    },
+    {
+      "jp": "ほ（う）っておく",
+      "kanji": "放っておく",
+      "eng": "to leave (someone/something) alone; to neglect"
+    },
+    {
+      "jp": "ボール",
+      "kanji": "",
+      "eng": "ball"
+    },
+    {
+      "jp": "ほんやくする",
+      "kanji": "翻訳する",
+      "eng": "to translate"
+    },
+    {
+      "jp": "まける",
+      "kanji": "負ける",
+      "eng": "to lose (a match)"
+    },
+    {
+      "jp": "まちどおしい",
+      "kanji": "待ち遠しい",
+      "eng": "to wait eagerly for . . ."
+    },
+    {
+      "jp": "まにあう",
+      "kanji": "間に合う",
+      "eng": "to be in time"
+    },
+    {
+      "jp": "むだづかい",
+      "kanji": "無駄遣い",
+      "eng": "waste (money)"
+    },
+    {
+      "jp": "メッセージ",
+      "kanji": "",
+      "eng": "message; text"
+    },
+    {
+      "jp": "めんきょ",
+      "kanji": "免許",
+      "eng": "license"
+    },
+    {
+      "jp": "もうすこし",
+      "kanji": "もう少し",
+      "eng": "a little more"
+    },
+    {
+      "jp": "ゆうき",
+      "kanji": "勇気",
+      "eng": "courage"
+    },
+    {
+      "jp": "ヨーロッパ",
+      "kanji": "",
+      "eng": "Europe"
+    },
+    {
+      "jp": "よしゅう",
+      "kanji": "予習",
+      "eng": "preparation of a lesson"
+    },
+    {
+      "jp": "らく（な）",
+      "kanji": "楽",
+      "eng": "easy; comfortable"
+    }
+  ],
+  "23": [
+    {
+      "jp": "あいさつ",
+      "kanji": "",
+      "eng": "greetings"
+    },
+    {
+      "jp": "あめがやむ",
+      "kanji": "雨がやむ",
+      "eng": "the rain stops"
+    },
+    {
+      "jp": "あらわす",
+      "kanji": "表す",
+      "eng": "to express; to show"
+    },
+    {
+      "jp": "いう（わるぐちを）",
+      "kanji": "言う（悪口を）",
+      "eng": "to talk behind someone’s back"
+    },
+    {
+      "jp": "いっぽう",
+      "kanji": "一方",
+      "eng": "on the other hand"
+    },
+    {
+      "jp": "いなくなる",
+      "kanji": "",
+      "eng": "(someone) is gone; to disappear"
+    },
+    {
+      "jp": "エスエヌエス",
+      "kanji": "SNS",
+      "eng": "social media"
+    },
+    {
+      "jp": "えもじ",
+      "kanji": "絵文字",
+      "eng": "emoji"
+    },
+    {
+      "jp": "おなかをこわす",
+      "kanji": "",
+      "eng": "to have a stomachache"
+    },
+    {
+      "jp": "おもいで",
+      "kanji": "思い出",
+      "eng": "memory"
+    },
+    {
+      "jp": "かいがいりょこう",
+      "kanji": "海外旅行",
+      "eng": "trip to a foreign country"
+    },
+    {
+      "jp": "かおもじ",
+      "kanji": "顔文字",
+      "eng": "emoticon"
+    },
+    {
+      "jp": "～かおをする",
+      "kanji": "～顔をする",
+      "eng": "to look . . . (facial expression)"
+    },
+    {
+      "jp": "がまんする",
+      "kanji": "我慢する",
+      "eng": "to be tolerant/patient"
+    },
+    {
+      "jp": "かんじょう",
+      "kanji": "感情",
+      "eng": "feeling; emotion"
+    },
+    {
+      "jp": "カンニングする",
+      "kanji": "",
+      "eng": "to cheat in an exam"
+    },
+    {
+      "jp": "きごう",
+      "kanji": "記号",
+      "eng": "symbol"
+    },
+    {
+      "jp": "キスをする",
+      "kanji": "",
+      "eng": "to kiss"
+    },
+    {
+      "jp": "きにいる",
+      "kanji": "気に入る",
+      "eng": "to find something agreeable"
+    },
+    {
+      "jp": "きゅうこう",
+      "kanji": "休講",
+      "eng": "class cancellation"
+    },
+    {
+      "jp": "くつした",
+      "kanji": "靴下",
+      "eng": "socks"
+    },
+    {
+      "jp": "けっか",
+      "kanji": "結果",
+      "eng": "result"
+    },
+    {
+      "jp": "げんきでね",
+      "kanji": "元気でね",
+      "eng": "Take care of yourself."
+    },
+    {
+      "jp": "けんこう",
+      "kanji": "健康",
+      "eng": "health"
+    },
+    {
+      "jp": "ことわざ",
+      "kanji": "",
+      "eng": "proverb"
+    },
+    {
+      "jp": "このように",
+      "kanji": "",
+      "eng": "like this; this way"
+    },
+    {
+      "jp": "しゃかい",
+      "kanji": "社会",
+      "eng": "society"
+    },
+    {
+      "jp": "しょうがっこう",
+      "kanji": "小学校",
+      "eng": "elementary school"
+    },
+    {
+      "jp": "せかいじゅう",
+      "kanji": "世界中",
+      "eng": "all over the world"
+    },
+    {
+      "jp": "せわをする",
+      "kanji": "世話をする",
+      "eng": "to take care of . . ."
+    },
+    {
+      "jp": "そうそう",
+      "kanji": "",
+      "eng": "You are right."
+    },
+    {
+      "jp": "そろそろ",
+      "kanji": "",
+      "eng": "it is about time to . . ."
+    },
+    {
+      "jp": "ただ",
+      "kanji": "",
+      "eng": "free of charge"
+    },
+    {
+      "jp": "たて",
+      "kanji": "縦",
+      "eng": "vertical"
+    },
+    {
+      "jp": "～ために",
+      "kanji": "",
+      "eng": "for . . . ; for the sake of . . ."
+    },
+    {
+      "jp": "チェックする",
+      "kanji": "",
+      "eng": "to check"
+    },
+    {
+      "jp": "ちょうさ",
+      "kanji": "調査",
+      "eng": "survey"
+    },
+    {
+      "jp": "（～は）…といういみだ",
+      "kanji": "（～は）…という意味だ",
+      "eng": "～ means that . . ."
+    },
+    {
+      "jp": "どうじょうする",
+      "kanji": "同情する",
+      "eng": "to sympathize"
+    },
+    {
+      "jp": "なくなる",
+      "kanji": "",
+      "eng": "to be lost; to disappear"
+    },
+    {
+      "jp": "～は…といういみだ",
+      "kanji": "～は…という意味だ",
+      "eng": "～ means that . . ."
+    },
+    {
+      "jp": "はなれる",
+      "kanji": "離れる",
+      "eng": "(something/someone) separates; parts from"
+    },
+    {
+      "jp": "ひょうじょう",
+      "kanji": "表情",
+      "eng": "expression"
+    },
+    {
+      "jp": "ぼんおどり",
+      "kanji": "盆踊り",
+      "eng": "Bon dance (Japanese traditional dance)"
+    },
+    {
+      "jp": "まずい",
+      "kanji": "",
+      "eng": "(food is) terrible"
+    },
+    {
+      "jp": "めんせつ",
+      "kanji": "面接",
+      "eng": "interview"
+    },
+    {
+      "jp": "もどってくる",
+      "kanji": "戻ってくる",
+      "eng": "(something/someone) comes back"
+    },
+    {
+      "jp": "ものすごく",
+      "kanji": "",
+      "eng": "extremely"
+    },
+    {
+      "jp": "ゆうしょうする",
+      "kanji": "優勝する",
+      "eng": "to win a championship"
+    },
+    {
+      "jp": "ゆうしょく",
+      "kanji": "夕食",
+      "eng": "dinner"
+    },
+    {
+      "jp": "よこ",
+      "kanji": "横",
+      "eng": "side; horizontal"
+    },
+    {
+      "jp": "りそう",
+      "kanji": "理想",
+      "eng": "ideal"
+    },
+    {
+      "jp": "るすばん",
+      "kanji": "留守番",
+      "eng": "looking after a house during someone’s absence"
+    },
+    {
+      "jp": "わるぐちをいう",
+      "kanji": "悪口を言う",
+      "eng": "to talk behind someone’s back"
+    }
+  ]
+}
